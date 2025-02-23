@@ -1,0 +1,1210 @@
+[22:42:01] [modloading-worker-0/INFO] ========================================
+[22:42:01] [modloading-worker-0/INFO] Minecraft: 1.18.2
+[22:42:01] [modloading-worker-0/INFO] Side: server
+[22:42:01] [modloading-worker-0/INFO] Development: false
+[22:42:01] [modloading-worker-0/INFO] Version: 8.4.778
+[22:42:01] [modloading-worker-0/INFO] Loader:
+[22:42:01] [modloading-worker-0/INFO] - Forge: 40.2.17
+[22:42:01] [modloading-worker-0/INFO] Dependencies:
+[22:42:01] [modloading-worker-0/INFO] - Cloth Config: 6.5.116
+[22:42:01] [modloading-worker-0/INFO] - Architectury: 4.12.94
+[22:42:01] [modloading-worker-0/INFO] Mixin: 0.8.5
+[22:42:01] [modloading-worker-0/INFO] OS: Linux 6.12.10-200.fc41.x86_64 (amd64)
+[22:42:01] [modloading-worker-0/INFO] Java: 21.0.6 (Eclipse Adoptium)
+[22:42:01] [modloading-worker-0/INFO] ========================================
+[22:42:01] [modloading-worker-0/INFO] Mods:
+[22:42:01] [modloading-worker-0/INFO] - adaptive_performance_tweaks_core: 10.2.0
+[22:42:01] [modloading-worker-0/INFO] - adaptive_performance_tweaks_items: 10.0.0
+[22:42:01] [modloading-worker-0/INFO] - ageingspawners: 1.2.4
+[22:42:01] [modloading-worker-0/INFO] - aggrofix: 1.0.2
+[22:42:01] [modloading-worker-0/INFO] - aiimprovements: 0.5.2
+[22:42:01] [modloading-worker-0/INFO] - alexsdelight: 1.3.3
+[22:42:01] [modloading-worker-0/INFO] - alexsmobs: 1.18.6
+[22:42:01] [modloading-worker-0/INFO] - alternate_current: 0.0NONE
+[22:42:01] [modloading-worker-0/INFO] - apexcore: 4.13.0
+[22:42:01] [modloading-worker-0/INFO] - apotheosis: 5.8.1
+[22:42:01] [modloading-worker-0/INFO] - aquamirae: 5.api10
+[22:42:01] [modloading-worker-0/INFO] - architectury: 4.12.94
+[22:42:01] [modloading-worker-0/INFO] - areas: 5.2
+[22:42:01] [modloading-worker-0/INFO] - armorcurve: 3.0
+[22:42:01] [modloading-worker-0/INFO] - armoreablemobs: 1.0.7
+[22:42:01] [modloading-worker-0/INFO] - ash_of_sin_custom_anti_trap_cage_entity: 1.0.5
+[22:42:01] [modloading-worker-0/INFO] - ash_of_sin_custom_entity_anti_effect: 1.0.6
+[22:42:01] [modloading-worker-0/INFO] - ash_of_sin_soul_like_boss_battle: 1.0.9
+[22:42:01] [modloading-worker-0/INFO] - atlaslib: 1.1.7a
+[22:42:01] [modloading-worker-0/INFO] - attributefix: 14.0.2
+[22:42:01] [modloading-worker-0/INFO] - autoreglib: 1.7-53
+[22:42:01] [modloading-worker-0/INFO] - awesomedungeonnether: 3.0.0
+[22:42:01] [modloading-worker-0/INFO] - ba_bt: 1.18.2-2.3.12
+[22:42:01] [modloading-worker-0/INFO] - badmobs: 13.01
+[22:42:01] [modloading-worker-0/INFO] - balm: 3.2.6
+[22:42:01] [modloading-worker-0/INFO] - bcc: 1.1.21-build.48+mc1.18.2
+[22:42:01] [modloading-worker-0/INFO] - betterbiomeblend: 1.3.5-forge
+[22:42:01] [modloading-worker-0/INFO] - betterdeserttemples: 1.18.2-Forge-1.3.1
+[22:42:01] [modloading-worker-0/INFO] - betterdungeons: 1.18.2-Forge-2.1.0
+[22:42:01] [modloading-worker-0/INFO] - betterendisland: 1.18.2-Forge-1.0
+[22:42:01] [modloading-worker-0/INFO] - betterfortresses: 1.18.2-Forge-1.0.0
+[22:42:01] [modloading-worker-0/INFO] - betterfpsdist: 1.18.2-1.5
+[22:42:01] [modloading-worker-0/INFO] - bettergolem: 1.18.2-1.1.0
+[22:42:01] [modloading-worker-0/INFO] - bettermineshafts: 1.18.2-Forge-2.2
+[22:42:01] [modloading-worker-0/INFO] - betteroceanmonuments: 1.18.2-Forge-1.0.3
+[22:42:01] [modloading-worker-0/INFO] - betterstrongholds: 1.18.2-Forge-2.1.1
+[22:42:01] [modloading-worker-0/INFO] - bettervillage: 2.0.0
+[22:42:01] [modloading-worker-0/INFO] - betterwitchhuts: 1.18.2-Forge-1.0.1
+[22:42:01] [modloading-worker-0/INFO] - biomemakeover: 1.18.2-1.4.32
+[22:42:01] [modloading-worker-0/INFO] - bloodandmadness: 2.0
+[22:42:01] [modloading-worker-0/INFO] - blue_skies: 1.3.12
+[22:42:01] [modloading-worker-0/INFO] - blueprint: 5.5.0
+[22:42:01] [modloading-worker-0/INFO] - bookshelf: 13.3.56
+[22:42:01] [modloading-worker-0/INFO] - bosses_of_mass_destruction: 1.0.6
+[22:42:01] [modloading-worker-0/INFO] - braincell: 1.18
+[22:42:01] [modloading-worker-0/INFO] - brutalbosses: 1.18.2-5.8
+[22:42:01] [modloading-worker-0/INFO] - bwncr: 3.13.21
+[22:42:01] [modloading-worker-0/INFO] - bygonenether: 1.3.2
+[22:42:01] [modloading-worker-0/INFO] - caelus: 1.18.1-3.0.0.2
+[22:42:01] [modloading-worker-0/INFO] - callablehorses: 1.2.2.5
+[22:42:01] [modloading-worker-0/INFO] - cataclysm: 1.0
+[22:42:01] [modloading-worker-0/INFO] - cc: 1.0.17
+[22:42:01] [modloading-worker-0/INFO] - celesteconfig: 1.0.0
+[22:42:01] [modloading-worker-0/INFO] - champions: 1.18.2-2.1.6.3
+[22:42:01] [modloading-worker-0/INFO] - chunky: 1.2.164
+[22:42:01] [modloading-worker-0/INFO] - citadel: 1.11.3
+[22:42:01] [modloading-worker-0/INFO] - cloth_config: 6.5.116
+[22:42:01] [modloading-worker-0/INFO] - cloudstorage: 1.1.0
+[22:42:01] [modloading-worker-0/INFO] - collective: 7.7
+[22:42:01] [modloading-worker-0/INFO] - comforts: 1.18.2-5.0.0.6
+[22:42:01] [modloading-worker-0/INFO] - commonality: 1.4.0
+[22:42:01] [modloading-worker-0/INFO] - conjurer_illager: 1.1.1
+[22:42:01] [modloading-worker-0/INFO] - corpse: 1.18.2-1.0.1
+[22:42:01] [modloading-worker-0/INFO] - crafttweaker: 9.1.211
+[22:42:01] [modloading-worker-0/INFO] - create: 0.5.1.f
+[22:42:01] [modloading-worker-0/INFO] - creativecore: 0.0NONE
+[22:42:01] [modloading-worker-0/INFO] - creeperoverhaul: 1.3.1
+[22:42:01] [modloading-worker-0/INFO] - cristellib: 1.0.0
+[22:42:01] [modloading-worker-0/INFO] - curios: 1.18.2-5.0.9.2
+[22:42:01] [modloading-worker-0/INFO] - dannys_expansion: 1.2.6
+[22:42:01] [modloading-worker-0/INFO] - darkersouls: 1.0
+[22:42:01] [modloading-worker-0/INFO] - dawncraft: 1.18.2-1.2.15f
+[22:42:01] [modloading-worker-0/INFO] - dawncraft_fixes: 0.35.0
+[22:42:01] [modloading-worker-0/INFO] - dcclasses: 1.1.5
+[22:42:01] [modloading-worker-0/INFO] - defaultoptions: 14.1.2
+[22:42:01] [modloading-worker-0/INFO] - deleteitem: 2.0.3.1
+[22:42:01] [modloading-worker-0/INFO] - difficultraids: 1.7.6-release
+[22:42:01] [modloading-worker-0/INFO] - doespotatotick: 1.18.2-4.0.2
+[22:42:01] [modloading-worker-0/INFO] - dogslie: 1.1.1
+[22:42:01] [modloading-worker-0/INFO] - dragonmounts: 1.1.4
+[22:42:01] [modloading-worker-0/INFO] - dummmmmmy: 1.18-1.5.2
+[22:42:01] [modloading-worker-0/INFO] - dungeoncrawl: 2.3.14
+[22:42:01] [modloading-worker-0/INFO] - dungeons_arise: 2.1.52-1.18.2
+[22:42:01] [modloading-worker-0/INFO] - easymagic: 3.3.0
+[22:42:01] [modloading-worker-0/INFO] - ecologics: 1.7.11
+[22:42:01] [modloading-worker-0/INFO] - ef_weapon_extended: 1.0.0
+[22:42:01] [modloading-worker-0/INFO] - efdg: 18.1.11
+[22:42:01] [modloading-worker-0/INFO] - efmpirates: 18.1.6
+[22:42:01] [modloading-worker-0/INFO] - enchantlimiter: 2.0
+[22:42:01] [modloading-worker-0/INFO] - endrem: 5.2.0-R-1.18.2
+[22:42:01] [modloading-worker-0/INFO] - enlightened_end: 4.0.0.1
+[22:42:01] [modloading-worker-0/INFO] - epicfight: 18.5.26
+[22:42:01] [modloading-worker-0/INFO] - falchionmoveset: 18.0.2
+[22:42:01] [modloading-worker-0/INFO] - fantasyfurniture: 3.14.0
+[22:42:01] [modloading-worker-0/INFO] - farmersdelight: 1.18.2-1.2.3
+[22:42:01] [modloading-worker-0/INFO] - farsight_view: 1.18.2-1.9
+[22:42:01] [modloading-worker-0/INFO] - farsightedmobs: 1.1
+[22:42:01] [modloading-worker-0/INFO] - fastbench: 6.1.1
+[22:42:01] [modloading-worker-0/INFO] - fastfurnace: 6.0.3
+[22:42:01] [modloading-worker-0/INFO] - fastload: 3.4.0
+[22:42:01] [modloading-worker-0/INFO] - fastsuite: 3.0.2
+[22:42:01] [modloading-worker-0/INFO] - feature_nbt_deadlock_be_gone: 2.0.0+1.18.2
+[22:42:01] [modloading-worker-0/INFO] - ferritecore: 4.2.2
+[22:42:01] [modloading-worker-0/INFO] - fixmyspawnr: 1.0.0
+[22:42:01] [modloading-worker-0/INFO] - flywheel: 0.6.10-105
+[22:42:01] [modloading-worker-0/INFO] - followme: 1.1.8a
+[22:42:01] [modloading-worker-0/INFO] - forge: 40.2.17
+[22:42:01] [modloading-worker-0/INFO] - friendsandfoes: 1.4.8
+[22:42:01] [modloading-worker-0/INFO] - ftblibrary: 1802.3.11-build.177
+[22:42:01] [modloading-worker-0/INFO] - ftbquests: 1802.3.15-build.298
+[22:42:01] [modloading-worker-0/INFO] - ftbranks: 1802.1.11-build.71
+[22:42:01] [modloading-worker-0/INFO] - ftbteams: 1802.2.11-build.107
+[22:42:01] [modloading-worker-0/INFO] - fullstackwatchdog: 1.0.1+1.19.2-forge
+[22:42:01] [modloading-worker-0/INFO] - gamestages: 8.1.3
+[22:42:01] [modloading-worker-0/INFO] - geckolib3: 3.0.57
+[22:42:01] [modloading-worker-0/INFO] - getittogetherdrops: 1.3
+[22:42:01] [modloading-worker-0/INFO] - globaldataandresourcepacks: 1.12.4_forge
+[22:42:01] [modloading-worker-0/INFO] - goblinsanddungeons: 1.0.8
+[22:42:01] [modloading-worker-0/INFO] - goblintraders: 1.8.0
+[22:42:01] [modloading-worker-0/INFO] - guardvillagers: 1.4.4
+[22:42:01] [modloading-worker-0/INFO] - habitat: 1.1.5
+[22:42:01] [modloading-worker-0/INFO] - hardermonsterboats: 39.1.1.0
+[22:42:01] [modloading-worker-0/INFO] - healthoverlay: 6.3.4
+[22:42:01] [modloading-worker-0/INFO] - hexerei: 0.2.2
+[22:42:01] [modloading-worker-0/INFO] - humancompanions: 1.18.2-1.7.3
+[22:42:01] [modloading-worker-0/INFO] - hunterillager: 1.18.2-4.0.1
+[22:42:01] [modloading-worker-0/INFO] - iceberg: 1.0.49
+[22:42:01] [modloading-worker-0/INFO] - idas: 1.6.7+1.18.2
+[22:42:01] [modloading-worker-0/INFO] - illageandspillage: 1.1.3
+[22:42:01] [modloading-worker-0/INFO] - immersive_weathering: 1.18.2-1.18.2-3.0.3
+[22:42:01] [modloading-worker-0/INFO] - impactful: 18.5.8
+[22:42:01] [modloading-worker-0/INFO] - improvedmobs: 1.18.2-1.12.1
+[22:42:01] [modloading-worker-0/INFO] - incendium: 5.0.8
+[22:42:01] [modloading-worker-0/INFO] - incontrol: 1.18-6.1.12
+[22:42:01] [modloading-worker-0/INFO] - indestructible: 18.5.10
+[22:42:01] [modloading-worker-0/INFO] - infernal: 18.1.9
+[22:42:01] [modloading-worker-0/INFO] - infernalexp: 2.5.0
+[22:42:01] [modloading-worker-0/INFO] - insanelib: 1.5.3
+[22:42:01] [modloading-worker-0/INFO] - integrated_api: 1.2.8+1.18.2
+[22:42:01] [modloading-worker-0/INFO] - integrated_stronghold: 1.0.2+1.18.2
+[22:42:01] [modloading-worker-0/INFO] - irons_spellbooks: 1.18.2-1.1.4.5
+[22:42:01] [modloading-worker-0/INFO] - itemfilters: 1802.2.8-build.50
+[22:42:01] [modloading-worker-0/INFO] - itemphysic: 1.6.0
+[22:42:01] [modloading-worker-0/INFO] - jade: 5.3.2
+[22:42:01] [modloading-worker-0/INFO] - jei: 9.9999
+[22:42:01] [modloading-worker-0/INFO] - jeitweaker: 3.0.0.9
+[22:42:01] [modloading-worker-0/INFO] - jet_and_elias_armors: 1.0.0
+[22:42:01] [modloading-worker-0/INFO] - journeymap: 5.9.8
+[22:42:01] [modloading-worker-0/INFO] - jumpboat: 1.18.2-0.1.0.3
+[22:42:01] [modloading-worker-0/INFO] - kobolds: 2.9.3
+[22:42:01] [modloading-worker-0/INFO] - konkrete: 1.8.0
+[22:42:01] [modloading-worker-0/INFO] - krypton: 0.1.10-SNAPSHOT
+[22:42:01] [modloading-worker-0/INFO] - lazydfu: 0.1.3
+[22:42:01] [modloading-worker-0/INFO] - libertyvillagers: 2.0.0+forge+1.18.2
+[22:42:01] [modloading-worker-0/INFO] - libraryferret: 3.0.0
+[22:42:01] [modloading-worker-0/INFO] - libx: 1.18.2-3.2.19
+[22:42:01] [modloading-worker-0/INFO] - lightspeed: 1.18.2-1.1.0
+[22:42:01] [modloading-worker-0/INFO] - lilwings: 1.2.4
+[22:42:01] [modloading-worker-0/INFO] - limitedchunks: 1.8
+[22:42:01] [modloading-worker-0/INFO] - logbegone: 1.0.4
+[22:42:01] [modloading-worker-0/INFO] - logprot: 1.4
+[22:42:01] [modloading-worker-0/INFO] - lootbeams: 1.18.1
+[22:42:01] [modloading-worker-0/INFO] - lootr: 0.3.26.68
+[22:42:01] [modloading-worker-0/INFO] - magistuarmory: 8.2
+[22:42:01] [modloading-worker-0/INFO] - majruszsdifficulty: 1.8.1
+[22:42:01] [modloading-worker-0/INFO] - maxhealthfix: 5.0.4
+[22:42:01] [modloading-worker-0/INFO] - medievalmusic: 1.18.2-1.4
+[22:42:01] [modloading-worker-0/INFO] - meetyourfight: 1.18.2-1.2.5
+[22:42:01] [modloading-worker-0/INFO] - melody: 1.0.1
+[22:42:01] [modloading-worker-0/INFO] - mimic: 1.1.32
+[22:42:01] [modloading-worker-0/INFO] - minecraft: 1.18.2
+[22:42:01] [modloading-worker-0/INFO] - mixinextras: 0.3.5
+[22:42:01] [modloading-worker-0/INFO] - mixininheaven: 0.0NONE
+[22:42:01] [modloading-worker-0/INFO] - mixinsquared: 0.1.2-beta.5
+[22:42:01] [modloading-worker-0/INFO] - mlib: 5.1.2
+[22:42:01] [modloading-worker-0/INFO] - modernfix: 5.18.0+mc1.18.2
+[22:42:01] [modloading-worker-0/INFO] - monsterplus: 1.0
+[22:42:01] [modloading-worker-0/INFO] - morevillagers: 3.2.0
+[22:42:01] [modloading-worker-0/INFO] - mowziesmobs: 1.6.3
+[22:42:01] [modloading-worker-0/INFO] - mutantmonsters: 3.0.1
+[22:42:01] [modloading-worker-0/INFO] - mvs: 3.0.8-1.18.2
+[22:42:01] [modloading-worker-0/INFO] - netherportalfix: 9.0.1
+[22:42:01] [modloading-worker-0/INFO] - nethersdelight: 2.2
+[22:42:01] [modloading-worker-0/INFO] - netherskeletons: 4.8
+[22:42:01] [modloading-worker-0/INFO] - nightconfigfixes: 3.0.2
+[22:42:01] [modloading-worker-0/INFO] - nourished_nether: 1.1.5
+[22:42:01] [modloading-worker-0/INFO] - nyfsquiver: 1.18.1-0.7.0
+[22:42:01] [modloading-worker-0/INFO] - ob_core: 3.2.0
+[22:42:01] [modloading-worker-0/INFO] - ob_tooltips: 1.4.1
+[22:42:01] [modloading-worker-0/INFO] - obscure_api: 10
+[22:42:01] [modloading-worker-0/INFO] - orcz: 0.74
+[22:42:01] [modloading-worker-0/INFO] - paraglider: 1.7.5
+[22:42:01] [modloading-worker-0/INFO] - paraglidersstaminacompats: 0.1.3
+[22:42:01] [modloading-worker-0/INFO] - passablefoliage: 4.2.1
+[22:42:01] [modloading-worker-0/INFO] - patchouli: 1.18.2-71.1
+[22:42:01] [modloading-worker-0/INFO] - pickupnotifier: 3.2.1
+[22:42:01] [modloading-worker-0/INFO] - piglinproliferation: 1.0.0
+[22:42:01] [modloading-worker-0/INFO] - pineapple_delight: 0.0NONE
+[22:42:01] [modloading-worker-0/INFO] - placebo: 6.6.7
+[22:42:01] [modloading-worker-0/INFO] - playeranimator: 1.0.2+1.18
+[22:42:01] [modloading-worker-0/INFO] - plushies: 1.2
+[22:42:01] [modloading-worker-0/INFO] - pmmo: 1.18.2-3.69.11
+[22:42:01] [modloading-worker-0/INFO] - polylib: 1801.0.2-build.13
+[22:42:01] [modloading-worker-0/INFO] - polymorph: 1.18.2-0.50
+[22:42:01] [modloading-worker-0/INFO] - presencenotrequired: 1.3.0
+[22:42:01] [modloading-worker-0/INFO] - prism: 1.0.1
+[22:42:01] [modloading-worker-0/INFO] - progressivebosses: 3.6.8
+[22:42:01] [modloading-worker-0/INFO] - puzzleslib: 3.5.8
+[22:42:01] [modloading-worker-0/INFO] - quark: 3.2-358
+[22:42:01] [modloading-worker-0/INFO] - quest_giver: 1.18.2-1.2.9
+[22:42:01] [modloading-worker-0/INFO] - radium: 0.7.10
+[22:42:01] [modloading-worker-0/INFO] - radon: 0.8.1
+[22:42:01] [modloading-worker-0/INFO] - recipestages: 3.0.0.10
+[22:42:01] [modloading-worker-0/INFO] - redirector: 1.18.2-2.4.0
+[22:42:01] [modloading-worker-0/INFO] - rei_plugin_compatibilities: 8.0.89
+[22:42:01] [modloading-worker-0/INFO] - reputation: 0.9.9
+[22:42:01] [modloading-worker-0/INFO] - restored_earth: 1.4.2
+[22:42:01] [modloading-worker-0/INFO] - revamped_phantoms: 0.2.3
+[22:42:01] [modloading-worker-0/INFO] - roughlyenoughitems: 8.4.778
+[22:42:01] [modloading-worker-0/INFO] - saturn: 0.1.5
+[22:42:01] [modloading-worker-0/INFO] - savage_and_ravage: 4.0.1
+[22:42:01] [modloading-worker-0/INFO] - scattered_weapons: 1.0.0
+[22:42:01] [modloading-worker-0/INFO] - secondchanceforge: 1.5.0
+[22:42:01] [modloading-worker-0/INFO] - selene: 1.18.2-1.17.14
+[22:42:01] [modloading-worker-0/INFO] - sereneseasons: 1.18.2-7.0.0.13
+[22:42:01] [modloading-worker-0/INFO] - shrines: 1.18.2-4.1.0
+[22:42:01] [modloading-worker-0/INFO] - shutupexperimentalsettings: 1.0.5
+[22:42:01] [modloading-worker-0/INFO] - simple_mobs: 1.3.7
+[22:42:01] [modloading-worker-0/INFO] - simplebackups: 1.18.2-1.1.14
+[22:42:01] [modloading-worker-0/INFO] - smoothchunk: 1.18.2-1.9
+[22:42:01] [modloading-worker-0/INFO] - solapplepie: 1.18.2-1.0.4
+[22:42:01] [modloading-worker-0/INFO] - sophisticatedbackpacks: 1.18.2-3.20.3.1063
+[22:42:01] [modloading-worker-0/INFO] - sophisticatedcore: 1.18.2-0.6.4.604
+[22:42:01] [modloading-worker-0/INFO] - spark: 1.10.38
+[22:42:01] [modloading-worker-0/INFO] - spyglass_improvements: 1.5+mc1.18.2+forge
+[22:42:01] [modloading-worker-0/INFO] - stackablepotions: 1.0.0
+[22:42:01] [modloading-worker-0/INFO] - starlight: 1.0.2+forge.83663de
+[22:42:01] [modloading-worker-0/INFO] - storagedrawers: 10.2.1
+[22:42:01] [modloading-worker-0/INFO] - structory: 0.0NONE
+[22:42:01] [modloading-worker-0/INFO] - structure_gel: 2.4.7
+[22:42:01] [modloading-worker-0/INFO] - supermartijn642configlib: 1.1.8
+[22:42:01] [modloading-worker-0/INFO] - supermartijn642corelib: 1.1.17
+[22:42:01] [modloading-worker-0/INFO] - supplementaries: 1.18.2-1.5.18
+[22:42:01] [modloading-worker-0/INFO] - sword_soaring: 18.1.11.9
+[22:42:01] [modloading-worker-0/INFO] - tenshilib: 1.18.2-1.7.4
+[22:42:01] [modloading-worker-0/INFO] - terrablender: 1.2.0.126
+[22:42:01] [modloading-worker-0/INFO] - terralith: 2.2.6
+[22:42:01] [modloading-worker-0/INFO] - timeout_fixes: 1.18.1-1.0.0
+[22:42:01] [modloading-worker-0/INFO] - tinyskeletons: 3.3.1
+[22:42:01] [modloading-worker-0/INFO] - tlc: 1.0.1
+[22:42:01] [modloading-worker-0/INFO] - toofast: 0.0.1.2
+[22:42:01] [modloading-worker-0/INFO] - travelerstitles: 1.18.2-Forge-2.1.1
+[22:42:01] [modloading-worker-0/INFO] - treechop: 0.17.7
+[22:42:01] [modloading-worker-0/INFO] - tumbleweed: 1.18-0.5.4
+[22:42:01] [modloading-worker-0/INFO] - undead_revamp2: 1.0.1
+[22:42:01] [modloading-worker-0/INFO] - untamedwilds: 2.4.3
+[22:42:01] [modloading-worker-0/INFO] - villagercomfort: 1.18.2-1.0.0
+[22:42:01] [modloading-worker-0/INFO] - villagernames: 7.0
+[22:42:01] [modloading-worker-0/INFO] - waila: 5.3.2
+[22:42:01] [modloading-worker-0/INFO] - waterdripsound: 0.3.0
+[22:42:01] [modloading-worker-0/INFO] - waystones: 10.2.2
+[22:42:01] [modloading-worker-0/INFO] - wildbackport: 1.2.3
+[22:42:01] [modloading-worker-0/INFO] - wom: 18.1.7.38
+[22:42:01] [modloading-worker-0/INFO] - yungsapi: 1.18.2-Forge-2.2.9
+[22:42:01] [modloading-worker-0/INFO] - yungsbridges: 1.18.2-Forge-2.1.0
+[22:42:01] [modloading-worker-0/INFO] - yungsextras: 1.18.2-Forge-2.1.0
+[22:42:01] [modloading-worker-0/INFO] - zensummoning: 1.3.8
+[22:42:01] [modloading-worker-0/INFO] ========================================
+[22:42:02] [modloading-worker-0/INFO] [REI] Registered plugin provider DefaultPluginImpl [roughlyenoughitems] for REIServerPlugin
+[22:42:02] [modloading-worker-0/INFO] [REI] Registered plugin provider DefaultPluginImpl [roughlyenoughitems] for REIPlugin
+[22:42:02] [modloading-worker-0/INFO] [REI] Registered plugin provider DefaultRuntimePlugin [roughlyenoughitems] for REIServerPlugin
+[22:42:02] [modloading-worker-0/INFO] [REI] Registered plugin provider DefaultRuntimePlugin [roughlyenoughitems] for REIPlugin
+[22:42:10] [Worker-Main-4/DEBUG] [REI] Processed 0 tags in 20.71 μs for minecraft:dimension_type
+[22:42:10] [Worker-Main-3/DEBUG] [REI] Processed 0 tags in 7.937 μs for shrines:random_variation/material
+[22:42:10] [Worker-Main-4/DEBUG] [REI] Processed 5 tags in 706.6 μs for minecraft:game_event
+[22:42:10] [Worker-Main-7/DEBUG] [REI] Processed 13 tags in 53.01 μs for minecraft:fluid
+[22:42:10] [Worker-Main-11/DEBUG] [REI] Processed 1 tags in 12.56 μs for minecraft:recipe_serializer
+[22:42:10] [Worker-Main-9/DEBUG] [REI] Processed 0 tags in 75.45 μs for minecraft:worldgen/configured_structure_feature
+[22:42:10] [Worker-Main-8/DEBUG] [REI] Processed 108 tags in 668.6 μs for minecraft:entity_type
+[22:42:10] [Worker-Main-3/DEBUG] [REI] Processed 1 tags in 53.47 μs for minecraft:worldgen/structure_feature
+[22:42:10] [Worker-Main-1/DEBUG] [REI] Processed 0 tags in 208.6 μs for minecraft:worldgen/biome
+[22:42:10] [Worker-Main-6/DEBUG] [REI] Processed 852 tags in 5.079 ms for minecraft:item
+[22:42:10] [Worker-Main-2/DEBUG] [REI] Processed 738 tags in 7.500 ms for minecraft:block
+[22:42:13] [Worker-Main-10/DEBUG] [REI] Starting Reload Plugins of stage null
+java.lang.Throwable
+	at TRANSFORMER/roughlyenoughitems@8.4.778/me.shedaniel.rei.impl.common.plugins.ReloadManagerImpl.reloadPlugins(ReloadManagerImpl.java:110)
+	at TRANSFORMER/roughlyenoughitems@8.4.778/me.shedaniel.rei.RoughlyEnoughItemsCore.lambda$onInitialize$4(RoughlyEnoughItemsCore.java:159)
+	at java.base/java.util.concurrent.CompletableFuture$UniRun.tryFire(Unknown Source)
+	at java.base/java.util.concurrent.CompletableFuture$Completion.run(Unknown Source)
+	at TRANSFORMER/minecraft@1.18.2/net.minecraft.server.packs.resources.SimpleReloadInstance.m_143940_(SimpleReloadInstance.java:69)
+	at TRANSFORMER/minecraft@1.18.2/net.minecraft.server.packs.resources.SimpleReloadInstance.m_10834_(SimpleReloadInstance.java:68)
+	at java.base/java.util.concurrent.CompletableFuture$UniCompletion.claim(Unknown Source)
+	at java.base/java.util.concurrent.CompletableFuture$UniRun.tryFire(Unknown Source)
+	at java.base/java.util.concurrent.CompletableFuture.postComplete(Unknown Source)
+	at java.base/java.util.concurrent.CompletableFuture.postFire(Unknown Source)
+	at java.base/java.util.concurrent.CompletableFuture$UniAccept.tryFire(Unknown Source)
+	at java.base/java.util.concurrent.CompletableFuture$Completion.run(Unknown Source)
+	at TRANSFORMER/minecraft@1.18.2/net.minecraft.server.packs.resources.SimpleReloadInstance.m_143940_(SimpleReloadInstance.java:69)
+	at TRANSFORMER/minecraft@1.18.2/net.minecraft.server.packs.resources.SimpleReloadInstance.m_10834_(SimpleReloadInstance.java:68)
+	at java.base/java.util.concurrent.CompletableFuture$UniCompletion.claim(Unknown Source)
+	at java.base/java.util.concurrent.CompletableFuture$UniAccept.tryFire(Unknown Source)
+	at java.base/java.util.concurrent.CompletableFuture.postComplete(Unknown Source)
+	at java.base/java.util.concurrent.CompletableFuture.postFire(Unknown Source)
+	at java.base/java.util.concurrent.CompletableFuture$UniRun.tryFire(Unknown Source)
+	at java.base/java.util.concurrent.CompletableFuture$Completion.run(Unknown Source)
+	at TRANSFORMER/minecraft@1.18.2/net.minecraft.server.packs.resources.SimpleReloadInstance.m_143940_(SimpleReloadInstance.java:69)
+	at TRANSFORMER/minecraft@1.18.2/net.minecraft.server.packs.resources.SimpleReloadInstance.m_10834_(SimpleReloadInstance.java:68)
+	at java.base/java.util.concurrent.CompletableFuture$UniCompletion.claim(Unknown Source)
+	at java.base/java.util.concurrent.CompletableFuture$UniRun.tryFire(Unknown Source)
+	at java.base/java.util.concurrent.CompletableFuture.postComplete(Unknown Source)
+	at java.base/java.util.concurrent.CompletableFuture.postFire(Unknown Source)
+	at java.base/java.util.concurrent.CompletableFuture$UniAccept.tryFire(Unknown Source)
+	at java.base/java.util.concurrent.CompletableFuture$Completion.run(Unknown Source)
+	at TRANSFORMER/minecraft@1.18.2/net.minecraft.server.packs.resources.SimpleReloadInstance.m_143940_(SimpleReloadInstance.java:69)
+	at TRANSFORMER/minecraft@1.18.2/net.minecraft.server.packs.resources.SimpleReloadInstance.m_10834_(SimpleReloadInstance.java:68)
+	at java.base/java.util.concurrent.CompletableFuture$UniCompletion.claim(Unknown Source)
+	at java.base/java.util.concurrent.CompletableFuture$UniAccept.tryFire(Unknown Source)
+	at java.base/java.util.concurrent.CompletableFuture.postComplete(Unknown Source)
+	at java.base/java.util.concurrent.CompletableFuture.postFire(Unknown Source)
+	at java.base/java.util.concurrent.CompletableFuture$UniAccept.tryFire(Unknown Source)
+	at java.base/java.util.concurrent.CompletableFuture$Completion.run(Unknown Source)
+	at TRANSFORMER/minecraft@1.18.2/net.minecraft.server.packs.resources.SimpleReloadInstance.m_143940_(SimpleReloadInstance.java:69)
+	at TRANSFORMER/minecraft@1.18.2/net.minecraft.server.packs.resources.SimpleReloadInstance.m_10834_(SimpleReloadInstance.java:68)
+	at java.base/java.util.concurrent.CompletableFuture$UniCompletion.claim(Unknown Source)
+	at java.base/java.util.concurrent.CompletableFuture$UniAccept.tryFire(Unknown Source)
+	at java.base/java.util.concurrent.CompletableFuture.postComplete(Unknown Source)
+	at java.base/java.util.concurrent.CompletableFuture.postFire(Unknown Source)
+	at java.base/java.util.concurrent.CompletableFuture$UniAccept.tryFire(Unknown Source)
+	at java.base/java.util.concurrent.CompletableFuture$Completion.run(Unknown Source)
+	at TRANSFORMER/minecraft@1.18.2/net.minecraft.server.packs.resources.SimpleReloadInstance.m_143940_(SimpleReloadInstance.java:69)
+	at TRANSFORMER/minecraft@1.18.2/net.minecraft.server.packs.resources.SimpleReloadInstance.m_10834_(SimpleReloadInstance.java:68)
+	at java.base/java.util.concurrent.CompletableFuture$UniCompletion.claim(Unknown Source)
+	at java.base/java.util.concurrent.CompletableFuture$UniAccept.tryFire(Unknown Source)
+	at java.base/java.util.concurrent.CompletableFuture.postComplete(Unknown Source)
+	at java.base/java.util.concurrent.CompletableFuture.postFire(Unknown Source)
+	at java.base/java.util.concurrent.CompletableFuture$UniAccept.tryFire(Unknown Source)
+	at java.base/java.util.concurrent.CompletableFuture$Completion.run(Unknown Source)
+	at TRANSFORMER/minecraft@1.18.2/net.minecraft.server.packs.resources.SimpleReloadInstance.m_143940_(SimpleReloadInstance.java:69)
+	at TRANSFORMER/minecraft@1.18.2/net.minecraft.server.packs.resources.SimpleReloadInstance.m_10834_(SimpleReloadInstance.java:68)
+	at java.base/java.util.concurrent.CompletableFuture$UniCompletion.claim(Unknown Source)
+	at java.base/java.util.concurrent.CompletableFuture$UniAccept.tryFire(Unknown Source)
+	at java.base/java.util.concurrent.CompletableFuture.postComplete(Unknown Source)
+	at java.base/java.util.concurrent.CompletableFuture.postFire(Unknown Source)
+	at java.base/java.util.concurrent.CompletableFuture$UniAccept.tryFire(Unknown Source)
+	at java.base/java.util.concurrent.CompletableFuture$Completion.run(Unknown Source)
+	at TRANSFORMER/minecraft@1.18.2/net.minecraft.server.packs.resources.SimpleReloadInstance.m_143940_(SimpleReloadInstance.java:69)
+	at TRANSFORMER/minecraft@1.18.2/net.minecraft.server.packs.resources.SimpleReloadInstance.m_10834_(SimpleReloadInstance.java:68)
+	at java.base/java.util.concurrent.CompletableFuture$UniCompletion.claim(Unknown Source)
+	at java.base/java.util.concurrent.CompletableFuture$UniAccept.tryFire(Unknown Source)
+	at java.base/java.util.concurrent.CompletableFuture.postComplete(Unknown Source)
+	at java.base/java.util.concurrent.CompletableFuture.postFire(Unknown Source)
+	at java.base/java.util.concurrent.CompletableFuture$UniAccept.tryFire(Unknown Source)
+	at java.base/java.util.concurrent.CompletableFuture$Completion.run(Unknown Source)
+	at TRANSFORMER/minecraft@1.18.2/net.minecraft.server.packs.resources.SimpleReloadInstance.m_143940_(SimpleReloadInstance.java:69)
+	at TRANSFORMER/minecraft@1.18.2/net.minecraft.server.packs.resources.SimpleReloadInstance.m_10834_(SimpleReloadInstance.java:68)
+	at java.base/java.util.concurrent.CompletableFuture$UniCompletion.claim(Unknown Source)
+	at java.base/java.util.concurrent.CompletableFuture$UniAccept.tryFire(Unknown Source)
+	at java.base/java.util.concurrent.CompletableFuture.postComplete(Unknown Source)
+	at java.base/java.util.concurrent.CompletableFuture.postFire(Unknown Source)
+	at java.base/java.util.concurrent.CompletableFuture$UniAccept.tryFire(Unknown Source)
+	at java.base/java.util.concurrent.CompletableFuture$Completion.run(Unknown Source)
+	at TRANSFORMER/minecraft@1.18.2/net.minecraft.server.packs.resources.SimpleReloadInstance.m_143940_(SimpleReloadInstance.java:69)
+	at TRANSFORMER/minecraft@1.18.2/net.minecraft.server.packs.resources.SimpleReloadInstance.m_10834_(SimpleReloadInstance.java:68)
+	at java.base/java.util.concurrent.CompletableFuture$UniCompletion.claim(Unknown Source)
+	at java.base/java.util.concurrent.CompletableFuture$UniAccept.tryFire(Unknown Source)
+	at java.base/java.util.concurrent.CompletableFuture.postComplete(Unknown Source)
+	at java.base/java.util.concurrent.CompletableFuture.postFire(Unknown Source)
+	at java.base/java.util.concurrent.CompletableFuture$UniAccept.tryFire(Unknown Source)
+	at java.base/java.util.concurrent.CompletableFuture$Completion.run(Unknown Source)
+	at TRANSFORMER/minecraft@1.18.2/net.minecraft.server.packs.resources.SimpleReloadInstance.m_143940_(SimpleReloadInstance.java:69)
+	at TRANSFORMER/minecraft@1.18.2/net.minecraft.server.packs.resources.SimpleReloadInstance.m_10834_(SimpleReloadInstance.java:68)
+	at java.base/java.util.concurrent.CompletableFuture$UniCompletion.claim(Unknown Source)
+	at java.base/java.util.concurrent.CompletableFuture$UniAccept.tryFire(Unknown Source)
+	at java.base/java.util.concurrent.CompletableFuture.postComplete(Unknown Source)
+	at java.base/java.util.concurrent.CompletableFuture.postFire(Unknown Source)
+	at java.base/java.util.concurrent.CompletableFuture$UniAccept.tryFire(Unknown Source)
+	at java.base/java.util.concurrent.CompletableFuture$Completion.run(Unknown Source)
+	at TRANSFORMER/minecraft@1.18.2/net.minecraft.server.packs.resources.SimpleReloadInstance.m_143940_(SimpleReloadInstance.java:69)
+	at TRANSFORMER/minecraft@1.18.2/net.minecraft.server.packs.resources.SimpleReloadInstance.m_10834_(SimpleReloadInstance.java:68)
+	at java.base/java.util.concurrent.CompletableFuture$UniCompletion.claim(Unknown Source)
+	at java.base/java.util.concurrent.CompletableFuture$UniAccept.tryFire(Unknown Source)
+	at java.base/java.util.concurrent.CompletableFuture.postComplete(Unknown Source)
+	at java.base/java.util.concurrent.CompletableFuture.postFire(Unknown Source)
+	at java.base/java.util.concurrent.CompletableFuture$UniAccept.tryFire(Unknown Source)
+	at java.base/java.util.concurrent.CompletableFuture$Completion.run(Unknown Source)
+	at TRANSFORMER/minecraft@1.18.2/net.minecraft.server.packs.resources.SimpleReloadInstance.m_143940_(SimpleReloadInstance.java:69)
+	at TRANSFORMER/minecraft@1.18.2/net.minecraft.server.packs.resources.SimpleReloadInstance.m_10834_(SimpleReloadInstance.java:68)
+	at java.base/java.util.concurrent.CompletableFuture$UniCompletion.claim(Unknown Source)
+	at java.base/java.util.concurrent.CompletableFuture$UniAccept.tryFire(Unknown Source)
+	at java.base/java.util.concurrent.CompletableFuture.postComplete(Unknown Source)
+	at java.base/java.util.concurrent.CompletableFuture.postFire(Unknown Source)
+	at java.base/java.util.concurrent.CompletableFuture$UniAccept.tryFire(Unknown Source)
+	at java.base/java.util.concurrent.CompletableFuture$Completion.run(Unknown Source)
+	at TRANSFORMER/minecraft@1.18.2/net.minecraft.server.packs.resources.SimpleReloadInstance.m_143940_(SimpleReloadInstance.java:69)
+	at TRANSFORMER/minecraft@1.18.2/net.minecraft.server.packs.resources.SimpleReloadInstance.m_10834_(SimpleReloadInstance.java:68)
+	at java.base/java.util.concurrent.CompletableFuture$UniCompletion.claim(Unknown Source)
+	at java.base/java.util.concurrent.CompletableFuture$UniAccept.tryFire(Unknown Source)
+	at java.base/java.util.concurrent.CompletableFuture.postComplete(Unknown Source)
+	at java.base/java.util.concurrent.CompletableFuture.postFire(Unknown Source)
+	at java.base/java.util.concurrent.CompletableFuture$UniAccept.tryFire(Unknown Source)
+	at java.base/java.util.concurrent.CompletableFuture$Completion.run(Unknown Source)
+	at TRANSFORMER/minecraft@1.18.2/net.minecraft.server.packs.resources.SimpleReloadInstance.m_143940_(SimpleReloadInstance.java:69)
+	at TRANSFORMER/minecraft@1.18.2/net.minecraft.server.packs.resources.SimpleReloadInstance.m_10834_(SimpleReloadInstance.java:68)
+	at java.base/java.util.concurrent.CompletableFuture$UniCompletion.claim(Unknown Source)
+	at java.base/java.util.concurrent.CompletableFuture$UniAccept.tryFire(Unknown Source)
+	at java.base/java.util.concurrent.CompletableFuture.postComplete(Unknown Source)
+	at java.base/java.util.concurrent.CompletableFuture.postFire(Unknown Source)
+	at java.base/java.util.concurrent.CompletableFuture$UniAccept.tryFire(Unknown Source)
+	at java.base/java.util.concurrent.CompletableFuture$Completion.run(Unknown Source)
+	at TRANSFORMER/minecraft@1.18.2/net.minecraft.server.packs.resources.SimpleReloadInstance.m_143940_(SimpleReloadInstance.java:69)
+	at TRANSFORMER/minecraft@1.18.2/net.minecraft.server.packs.resources.SimpleReloadInstance.m_10834_(SimpleReloadInstance.java:68)
+	at java.base/java.util.concurrent.CompletableFuture$UniCompletion.claim(Unknown Source)
+	at java.base/java.util.concurrent.CompletableFuture$UniAccept.tryFire(Unknown Source)
+	at java.base/java.util.concurrent.CompletableFuture.postComplete(Unknown Source)
+	at java.base/java.util.concurrent.CompletableFuture.postFire(Unknown Source)
+	at java.base/java.util.concurrent.CompletableFuture$UniAccept.tryFire(Unknown Source)
+	at java.base/java.util.concurrent.CompletableFuture$Completion.run(Unknown Source)
+	at TRANSFORMER/minecraft@1.18.2/net.minecraft.server.packs.resources.SimpleReloadInstance.m_143940_(SimpleReloadInstance.java:69)
+	at TRANSFORMER/minecraft@1.18.2/net.minecraft.server.packs.resources.SimpleReloadInstance.m_10834_(SimpleReloadInstance.java:68)
+	at java.base/java.util.concurrent.CompletableFuture$UniCompletion.claim(Unknown Source)
+	at java.base/java.util.concurrent.CompletableFuture$UniAccept.tryFire(Unknown Source)
+	at java.base/java.util.concurrent.CompletableFuture.postComplete(Unknown Source)
+	at java.base/java.util.concurrent.CompletableFuture.postFire(Unknown Source)
+	at java.base/java.util.concurrent.CompletableFuture$UniAccept.tryFire(Unknown Source)
+	at java.base/java.util.concurrent.CompletableFuture$Completion.run(Unknown Source)
+	at TRANSFORMER/minecraft@1.18.2/net.minecraft.server.packs.resources.SimpleReloadInstance.m_143940_(SimpleReloadInstance.java:69)
+	at TRANSFORMER/minecraft@1.18.2/net.minecraft.server.packs.resources.SimpleReloadInstance.m_10834_(SimpleReloadInstance.java:68)
+	at java.base/java.util.concurrent.CompletableFuture$UniCompletion.claim(Unknown Source)
+	at java.base/java.util.concurrent.CompletableFuture$UniAccept.tryFire(Unknown Source)
+	at java.base/java.util.concurrent.CompletableFuture.postComplete(Unknown Source)
+	at java.base/java.util.concurrent.CompletableFuture.postFire(Unknown Source)
+	at java.base/java.util.concurrent.CompletableFuture$UniAccept.tryFire(Unknown Source)
+	at java.base/java.util.concurrent.CompletableFuture$Completion.run(Unknown Source)
+	at TRANSFORMER/minecraft@1.18.2/net.minecraft.server.packs.resources.SimpleReloadInstance.m_143940_(SimpleReloadInstance.java:69)
+	at TRANSFORMER/minecraft@1.18.2/net.minecraft.server.packs.resources.SimpleReloadInstance.m_10834_(SimpleReloadInstance.java:68)
+	at java.base/java.util.concurrent.CompletableFuture$UniCompletion.claim(Unknown Source)
+	at java.base/java.util.concurrent.CompletableFuture$UniAccept.tryFire(Unknown Source)
+	at java.base/java.util.concurrent.CompletableFuture.postComplete(Unknown Source)
+	at java.base/java.util.concurrent.CompletableFuture.postFire(Unknown Source)
+	at java.base/java.util.concurrent.CompletableFuture$UniAccept.tryFire(Unknown Source)
+	at java.base/java.util.concurrent.CompletableFuture$Completion.run(Unknown Source)
+	at TRANSFORMER/minecraft@1.18.2/net.minecraft.server.packs.resources.SimpleReloadInstance.m_143940_(SimpleReloadInstance.java:69)
+	at TRANSFORMER/minecraft@1.18.2/net.minecraft.server.packs.resources.SimpleReloadInstance.m_10834_(SimpleReloadInstance.java:68)
+	at java.base/java.util.concurrent.CompletableFuture$UniCompletion.claim(Unknown Source)
+	at java.base/java.util.concurrent.CompletableFuture$UniAccept.tryFire(Unknown Source)
+	at java.base/java.util.concurrent.CompletableFuture.postComplete(Unknown Source)
+	at java.base/java.util.concurrent.CompletableFuture.postFire(Unknown Source)
+	at java.base/java.util.concurrent.CompletableFuture$UniAccept.tryFire(Unknown Source)
+	at java.base/java.util.concurrent.CompletableFuture$Completion.run(Unknown Source)
+	at TRANSFORMER/minecraft@1.18.2/net.minecraft.server.packs.resources.SimpleReloadInstance.m_143940_(SimpleReloadInstance.java:69)
+	at TRANSFORMER/minecraft@1.18.2/net.minecraft.server.packs.resources.SimpleReloadInstance.m_10834_(SimpleReloadInstance.java:68)
+	at java.base/java.util.concurrent.CompletableFuture$UniCompletion.claim(Unknown Source)
+	at java.base/java.util.concurrent.CompletableFuture$UniAccept.tryFire(Unknown Source)
+	at java.base/java.util.concurrent.CompletableFuture.postComplete(Unknown Source)
+	at java.base/java.util.concurrent.CompletableFuture.postFire(Unknown Source)
+	at java.base/java.util.concurrent.CompletableFuture$UniAccept.tryFire(Unknown Source)
+	at java.base/java.util.concurrent.CompletableFuture$Completion.run(Unknown Source)
+	at TRANSFORMER/minecraft@1.18.2/net.minecraft.server.packs.resources.SimpleReloadInstance.m_143940_(SimpleReloadInstance.java:69)
+	at TRANSFORMER/minecraft@1.18.2/net.minecraft.server.packs.resources.SimpleReloadInstance.m_10834_(SimpleReloadInstance.java:68)
+	at java.base/java.util.concurrent.CompletableFuture$UniCompletion.claim(Unknown Source)
+	at java.base/java.util.concurrent.CompletableFuture$UniAccept.tryFire(Unknown Source)
+	at java.base/java.util.concurrent.CompletableFuture.postComplete(Unknown Source)
+	at java.base/java.util.concurrent.CompletableFuture.postFire(Unknown Source)
+	at java.base/java.util.concurrent.CompletableFuture$UniAccept.tryFire(Unknown Source)
+	at java.base/java.util.concurrent.CompletableFuture$Completion.run(Unknown Source)
+	at TRANSFORMER/minecraft@1.18.2/net.minecraft.server.packs.resources.SimpleReloadInstance.m_143940_(SimpleReloadInstance.java:69)
+	at TRANSFORMER/minecraft@1.18.2/net.minecraft.server.packs.resources.SimpleReloadInstance.m_10834_(SimpleReloadInstance.java:68)
+	at java.base/java.util.concurrent.CompletableFuture$UniCompletion.claim(Unknown Source)
+	at java.base/java.util.concurrent.CompletableFuture$UniAccept.tryFire(Unknown Source)
+	at java.base/java.util.concurrent.CompletableFuture.postComplete(Unknown Source)
+	at java.base/java.util.concurrent.CompletableFuture.postFire(Unknown Source)
+	at java.base/java.util.concurrent.CompletableFuture$UniAccept.tryFire(Unknown Source)
+	at java.base/java.util.concurrent.CompletableFuture$Completion.run(Unknown Source)
+	at TRANSFORMER/minecraft@1.18.2/net.minecraft.server.packs.resources.SimpleReloadInstance.m_143940_(SimpleReloadInstance.java:69)
+	at TRANSFORMER/minecraft@1.18.2/net.minecraft.server.packs.resources.SimpleReloadInstance.m_10834_(SimpleReloadInstance.java:68)
+	at java.base/java.util.concurrent.CompletableFuture$UniCompletion.claim(Unknown Source)
+	at java.base/java.util.concurrent.CompletableFuture$UniAccept.tryFire(Unknown Source)
+	at java.base/java.util.concurrent.CompletableFuture.postComplete(Unknown Source)
+	at java.base/java.util.concurrent.CompletableFuture.postFire(Unknown Source)
+	at java.base/java.util.concurrent.CompletableFuture$UniAccept.tryFire(Unknown Source)
+	at java.base/java.util.concurrent.CompletableFuture$Completion.run(Unknown Source)
+	at TRANSFORMER/minecraft@1.18.2/net.minecraft.server.packs.resources.SimpleReloadInstance.m_143940_(SimpleReloadInstance.java:69)
+	at TRANSFORMER/minecraft@1.18.2/net.minecraft.server.packs.resources.SimpleReloadInstance.m_10834_(SimpleReloadInstance.java:68)
+	at java.base/java.util.concurrent.CompletableFuture$UniCompletion.claim(Unknown Source)
+	at java.base/java.util.concurrent.CompletableFuture$UniAccept.tryFire(Unknown Source)
+	at java.base/java.util.concurrent.CompletableFuture.postComplete(Unknown Source)
+	at java.base/java.util.concurrent.CompletableFuture.postFire(Unknown Source)
+	at java.base/java.util.concurrent.CompletableFuture$UniAccept.tryFire(Unknown Source)
+	at java.base/java.util.concurrent.CompletableFuture$Completion.run(Unknown Source)
+	at TRANSFORMER/minecraft@1.18.2/net.minecraft.server.packs.resources.SimpleReloadInstance.m_143940_(SimpleReloadInstance.java:69)
+	at TRANSFORMER/minecraft@1.18.2/net.minecraft.server.packs.resources.SimpleReloadInstance.m_10834_(SimpleReloadInstance.java:68)
+	at java.base/java.util.concurrent.CompletableFuture$UniCompletion.claim(Unknown Source)
+	at java.base/java.util.concurrent.CompletableFuture$UniAccept.tryFire(Unknown Source)
+	at java.base/java.util.concurrent.CompletableFuture.postComplete(Unknown Source)
+	at java.base/java.util.concurrent.CompletableFuture.postFire(Unknown Source)
+	at java.base/java.util.concurrent.CompletableFuture$UniAccept.tryFire(Unknown Source)
+	at java.base/java.util.concurrent.CompletableFuture$Completion.run(Unknown Source)
+	at TRANSFORMER/minecraft@1.18.2/net.minecraft.server.packs.resources.SimpleReloadInstance.m_143940_(SimpleReloadInstance.java:69)
+	at TRANSFORMER/minecraft@1.18.2/net.minecraft.server.packs.resources.SimpleReloadInstance.m_10834_(SimpleReloadInstance.java:68)
+	at java.base/java.util.concurrent.CompletableFuture$UniCompletion.claim(Unknown Source)
+	at java.base/java.util.concurrent.CompletableFuture$UniAccept.tryFire(Unknown Source)
+	at java.base/java.util.concurrent.CompletableFuture.postComplete(Unknown Source)
+	at java.base/java.util.concurrent.CompletableFuture.postFire(Unknown Source)
+	at java.base/java.util.concurrent.CompletableFuture$UniAccept.tryFire(Unknown Source)
+	at java.base/java.util.concurrent.CompletableFuture$Completion.run(Unknown Source)
+	at TRANSFORMER/minecraft@1.18.2/net.minecraft.server.packs.resources.SimpleReloadInstance.m_143940_(SimpleReloadInstance.java:69)
+	at TRANSFORMER/minecraft@1.18.2/net.minecraft.server.packs.resources.SimpleReloadInstance.m_10834_(SimpleReloadInstance.java:68)
+	at java.base/java.util.concurrent.CompletableFuture$UniCompletion.claim(Unknown Source)
+	at java.base/java.util.concurrent.CompletableFuture$UniAccept.tryFire(Unknown Source)
+	at java.base/java.util.concurrent.CompletableFuture.postComplete(Unknown Source)
+	at java.base/java.util.concurrent.CompletableFuture.postFire(Unknown Source)
+	at java.base/java.util.concurrent.CompletableFuture$UniAccept.tryFire(Unknown Source)
+	at java.base/java.util.concurrent.CompletableFuture$Completion.run(Unknown Source)
+	at TRANSFORMER/minecraft@1.18.2/net.minecraft.server.packs.resources.SimpleReloadInstance.m_143940_(SimpleReloadInstance.java:69)
+	at TRANSFORMER/minecraft@1.18.2/net.minecraft.server.packs.resources.SimpleReloadInstance.m_10834_(SimpleReloadInstance.java:68)
+	at java.base/java.util.concurrent.CompletableFuture$UniCompletion.claim(Unknown Source)
+	at java.base/java.util.concurrent.CompletableFuture$UniAccept.tryFire(Unknown Source)
+	at java.base/java.util.concurrent.CompletableFuture.postComplete(Unknown Source)
+	at java.base/java.util.concurrent.CompletableFuture.postFire(Unknown Source)
+	at java.base/java.util.concurrent.CompletableFuture$UniAccept.tryFire(Unknown Source)
+	at java.base/java.util.concurrent.CompletableFuture$Completion.run(Unknown Source)
+	at TRANSFORMER/minecraft@1.18.2/net.minecraft.server.packs.resources.SimpleReloadInstance.m_143940_(SimpleReloadInstance.java:69)
+	at TRANSFORMER/minecraft@1.18.2/net.minecraft.server.packs.resources.SimpleReloadInstance.m_10834_(SimpleReloadInstance.java:68)
+	at java.base/java.util.concurrent.CompletableFuture$UniCompletion.claim(Unknown Source)
+	at java.base/java.util.concurrent.CompletableFuture$UniAccept.tryFire(Unknown Source)
+	at java.base/java.util.concurrent.CompletableFuture.postComplete(Unknown Source)
+	at java.base/java.util.concurrent.CompletableFuture.postFire(Unknown Source)
+	at java.base/java.util.concurrent.CompletableFuture$UniAccept.tryFire(Unknown Source)
+	at java.base/java.util.concurrent.CompletableFuture$Completion.run(Unknown Source)
+	at TRANSFORMER/minecraft@1.18.2/net.minecraft.server.packs.resources.SimpleReloadInstance.m_143940_(SimpleReloadInstance.java:69)
+	at TRANSFORMER/minecraft@1.18.2/net.minecraft.server.packs.resources.SimpleReloadInstance.m_10834_(SimpleReloadInstance.java:68)
+	at java.base/java.util.concurrent.CompletableFuture$UniCompletion.claim(Unknown Source)
+	at java.base/java.util.concurrent.CompletableFuture$UniAccept.tryFire(Unknown Source)
+	at java.base/java.util.concurrent.CompletableFuture.postComplete(Unknown Source)
+	at java.base/java.util.concurrent.CompletableFuture.postFire(Unknown Source)
+	at java.base/java.util.concurrent.CompletableFuture$UniAccept.tryFire(Unknown Source)
+	at java.base/java.util.concurrent.CompletableFuture$Completion.run(Unknown Source)
+	at TRANSFORMER/minecraft@1.18.2/net.minecraft.server.packs.resources.SimpleReloadInstance.m_143940_(SimpleReloadInstance.java:69)
+	at TRANSFORMER/minecraft@1.18.2/net.minecraft.server.packs.resources.SimpleReloadInstance.m_10834_(SimpleReloadInstance.java:68)
+	at java.base/java.util.concurrent.CompletableFuture$UniCompletion.claim(Unknown Source)
+	at java.base/java.util.concurrent.CompletableFuture$UniAccept.tryFire(Unknown Source)
+	at java.base/java.util.concurrent.CompletableFuture.postComplete(Unknown Source)
+	at java.base/java.util.concurrent.CompletableFuture.postFire(Unknown Source)
+	at java.base/java.util.concurrent.CompletableFuture$UniAccept.tryFire(Unknown Source)
+	at java.base/java.util.concurrent.CompletableFuture$Completion.run(Unknown Source)
+	at TRANSFORMER/minecraft@1.18.2/net.minecraft.server.packs.resources.SimpleReloadInstance.m_143940_(SimpleReloadInstance.java:69)
+	at TRANSFORMER/minecraft@1.18.2/net.minecraft.server.packs.resources.SimpleReloadInstance.m_10834_(SimpleReloadInstance.java:68)
+	at java.base/java.util.concurrent.CompletableFuture$UniCompletion.claim(Unknown Source)
+	at java.base/java.util.concurrent.CompletableFuture$UniAccept.tryFire(Unknown Source)
+	at java.base/java.util.concurrent.CompletableFuture.postComplete(Unknown Source)
+	at java.base/java.util.concurrent.CompletableFuture.postFire(Unknown Source)
+	at java.base/java.util.concurrent.CompletableFuture$UniAccept.tryFire(Unknown Source)
+	at java.base/java.util.concurrent.CompletableFuture$Completion.run(Unknown Source)
+	at TRANSFORMER/minecraft@1.18.2/net.minecraft.server.packs.resources.SimpleReloadInstance.m_143940_(SimpleReloadInstance.java:69)
+	at TRANSFORMER/minecraft@1.18.2/net.minecraft.server.packs.resources.SimpleReloadInstance.m_10834_(SimpleReloadInstance.java:68)
+	at java.base/java.util.concurrent.CompletableFuture$UniCompletion.claim(Unknown Source)
+	at java.base/java.util.concurrent.CompletableFuture$UniAccept.tryFire(Unknown Source)
+	at java.base/java.util.concurrent.CompletableFuture.postComplete(Unknown Source)
+	at java.base/java.util.concurrent.CompletableFuture.postFire(Unknown Source)
+	at java.base/java.util.concurrent.CompletableFuture$UniAccept.tryFire(Unknown Source)
+	at java.base/java.util.concurrent.CompletableFuture$Completion.run(Unknown Source)
+	at TRANSFORMER/minecraft@1.18.2/net.minecraft.server.packs.resources.SimpleReloadInstance.m_143940_(SimpleReloadInstance.java:69)
+	at TRANSFORMER/minecraft@1.18.2/net.minecraft.server.packs.resources.SimpleReloadInstance.m_10834_(SimpleReloadInstance.java:68)
+	at java.base/java.util.concurrent.CompletableFuture$UniCompletion.claim(Unknown Source)
+	at java.base/java.util.concurrent.CompletableFuture$UniAccept.tryFire(Unknown Source)
+	at java.base/java.util.concurrent.CompletableFuture.postComplete(Unknown Source)
+	at java.base/java.util.concurrent.CompletableFuture.postFire(Unknown Source)
+	at java.base/java.util.concurrent.CompletableFuture$UniAccept.tryFire(Unknown Source)
+	at java.base/java.util.concurrent.CompletableFuture$Completion.run(Unknown Source)
+	at TRANSFORMER/minecraft@1.18.2/net.minecraft.server.packs.resources.SimpleReloadInstance.m_143940_(SimpleReloadInstance.java:69)
+	at TRANSFORMER/minecraft@1.18.2/net.minecraft.server.packs.resources.SimpleReloadInstance.m_10834_(SimpleReloadInstance.java:68)
+	at java.base/java.util.concurrent.CompletableFuture$UniCompletion.claim(Unknown Source)
+	at java.base/java.util.concurrent.CompletableFuture$UniAccept.tryFire(Unknown Source)
+	at java.base/java.util.concurrent.CompletableFuture.postComplete(Unknown Source)
+	at java.base/java.util.concurrent.CompletableFuture.postFire(Unknown Source)
+	at java.base/java.util.concurrent.CompletableFuture$UniAccept.tryFire(Unknown Source)
+	at java.base/java.util.concurrent.CompletableFuture$Completion.run(Unknown Source)
+	at TRANSFORMER/minecraft@1.18.2/net.minecraft.server.packs.resources.SimpleReloadInstance.m_143940_(SimpleReloadInstance.java:69)
+	at TRANSFORMER/minecraft@1.18.2/net.minecraft.server.packs.resources.SimpleReloadInstance.m_10834_(SimpleReloadInstance.java:68)
+	at java.base/java.util.concurrent.CompletableFuture$UniCompletion.claim(Unknown Source)
+	at java.base/java.util.concurrent.CompletableFuture$UniAccept.tryFire(Unknown Source)
+	at java.base/java.util.concurrent.CompletableFuture.postComplete(Unknown Source)
+	at java.base/java.util.concurrent.CompletableFuture.postFire(Unknown Source)
+	at java.base/java.util.concurrent.CompletableFuture$UniAccept.tryFire(Unknown Source)
+	at java.base/java.util.concurrent.CompletableFuture$Completion.run(Unknown Source)
+	at TRANSFORMER/minecraft@1.18.2/net.minecraft.server.packs.resources.SimpleReloadInstance.m_143940_(SimpleReloadInstance.java:69)
+	at TRANSFORMER/minecraft@1.18.2/net.minecraft.server.packs.resources.SimpleReloadInstance.m_10834_(SimpleReloadInstance.java:68)
+	at java.base/java.util.concurrent.CompletableFuture$UniCompletion.claim(Unknown Source)
+	at java.base/java.util.concurrent.CompletableFuture$UniAccept.tryFire(Unknown Source)
+	at java.base/java.util.concurrent.CompletableFuture.postComplete(Unknown Source)
+	at java.base/java.util.concurrent.CompletableFuture.postFire(Unknown Source)
+	at java.base/java.util.concurrent.CompletableFuture$UniAccept.tryFire(Unknown Source)
+	at java.base/java.util.concurrent.CompletableFuture$Completion.run(Unknown Source)
+	at TRANSFORMER/minecraft@1.18.2/net.minecraft.server.packs.resources.SimpleReloadInstance.m_143940_(SimpleReloadInstance.java:69)
+	at TRANSFORMER/minecraft@1.18.2/net.minecraft.server.packs.resources.SimpleReloadInstance.m_10834_(SimpleReloadInstance.java:68)
+	at java.base/java.util.concurrent.CompletableFuture$UniCompletion.claim(Unknown Source)
+	at java.base/java.util.concurrent.CompletableFuture$UniAccept.tryFire(Unknown Source)
+	at java.base/java.util.concurrent.CompletableFuture.postComplete(Unknown Source)
+	at java.base/java.util.concurrent.CompletableFuture.postFire(Unknown Source)
+	at java.base/java.util.concurrent.CompletableFuture$UniAccept.tryFire(Unknown Source)
+	at java.base/java.util.concurrent.CompletableFuture$Completion.run(Unknown Source)
+	at TRANSFORMER/minecraft@1.18.2/net.minecraft.server.packs.resources.SimpleReloadInstance.m_143940_(SimpleReloadInstance.java:69)
+	at TRANSFORMER/minecraft@1.18.2/net.minecraft.server.packs.resources.SimpleReloadInstance.m_10834_(SimpleReloadInstance.java:68)
+	at java.base/java.util.concurrent.CompletableFuture$UniCompletion.claim(Unknown Source)
+	at java.base/java.util.concurrent.CompletableFuture$UniAccept.tryFire(Unknown Source)
+	at java.base/java.util.concurrent.CompletableFuture.postComplete(Unknown Source)
+	at java.base/java.util.concurrent.CompletableFuture.postFire(Unknown Source)
+	at java.base/java.util.concurrent.CompletableFuture$UniAccept.tryFire(Unknown Source)
+	at java.base/java.util.concurrent.CompletableFuture$Completion.run(Unknown Source)
+	at TRANSFORMER/minecraft@1.18.2/net.minecraft.server.packs.resources.SimpleReloadInstance.m_143940_(SimpleReloadInstance.java:69)
+	at TRANSFORMER/minecraft@1.18.2/net.minecraft.server.packs.resources.SimpleReloadInstance.m_10834_(SimpleReloadInstance.java:68)
+	at java.base/java.util.concurrent.CompletableFuture$UniCompletion.claim(Unknown Source)
+	at java.base/java.util.concurrent.CompletableFuture$UniAccept.tryFire(Unknown Source)
+	at java.base/java.util.concurrent.CompletableFuture.postComplete(Unknown Source)
+	at java.base/java.util.concurrent.CompletableFuture.postFire(Unknown Source)
+	at java.base/java.util.concurrent.CompletableFuture$UniAccept.tryFire(Unknown Source)
+	at java.base/java.util.concurrent.CompletableFuture$Completion.run(Unknown Source)
+	at TRANSFORMER/minecraft@1.18.2/net.minecraft.server.packs.resources.SimpleReloadInstance.m_143940_(SimpleReloadInstance.java:69)
+	at TRANSFORMER/minecraft@1.18.2/net.minecraft.server.packs.resources.SimpleReloadInstance.m_10834_(SimpleReloadInstance.java:68)
+	at java.base/java.util.concurrent.CompletableFuture$UniCompletion.claim(Unknown Source)
+	at java.base/java.util.concurrent.CompletableFuture$UniAccept.tryFire(Unknown Source)
+	at java.base/java.util.concurrent.CompletableFuture.postComplete(Unknown Source)
+	at java.base/java.util.concurrent.CompletableFuture.postFire(Unknown Source)
+	at java.base/java.util.concurrent.CompletableFuture$UniAccept.tryFire(Unknown Source)
+	at java.base/java.util.concurrent.CompletableFuture$Completion.run(Unknown Source)
+	at TRANSFORMER/minecraft@1.18.2/net.minecraft.server.packs.resources.SimpleReloadInstance.m_143940_(SimpleReloadInstance.java:69)
+	at TRANSFORMER/minecraft@1.18.2/net.minecraft.server.packs.resources.SimpleReloadInstance.m_10834_(SimpleReloadInstance.java:68)
+	at java.base/java.util.concurrent.CompletableFuture$UniCompletion.claim(Unknown Source)
+	at java.base/java.util.concurrent.CompletableFuture$UniAccept.tryFire(Unknown Source)
+	at java.base/java.util.concurrent.CompletableFuture.postComplete(Unknown Source)
+	at java.base/java.util.concurrent.CompletableFuture.postFire(Unknown Source)
+	at java.base/java.util.concurrent.CompletableFuture$UniAccept.tryFire(Unknown Source)
+	at java.base/java.util.concurrent.CompletableFuture$Completion.run(Unknown Source)
+	at TRANSFORMER/minecraft@1.18.2/net.minecraft.server.packs.resources.SimpleReloadInstance.m_143940_(SimpleReloadInstance.java:69)
+	at TRANSFORMER/minecraft@1.18.2/net.minecraft.server.packs.resources.SimpleReloadInstance.m_10834_(SimpleReloadInstance.java:68)
+	at java.base/java.util.concurrent.CompletableFuture$UniCompletion.claim(Unknown Source)
+	at java.base/java.util.concurrent.CompletableFuture$UniAccept.tryFire(Unknown Source)
+	at java.base/java.util.concurrent.CompletableFuture.postComplete(Unknown Source)
+	at java.base/java.util.concurrent.CompletableFuture.postFire(Unknown Source)
+	at java.base/java.util.concurrent.CompletableFuture$UniAccept.tryFire(Unknown Source)
+	at java.base/java.util.concurrent.CompletableFuture$Completion.run(Unknown Source)
+	at TRANSFORMER/minecraft@1.18.2/net.minecraft.server.packs.resources.SimpleReloadInstance.m_143940_(SimpleReloadInstance.java:69)
+	at TRANSFORMER/minecraft@1.18.2/net.minecraft.server.packs.resources.SimpleReloadInstance.m_10834_(SimpleReloadInstance.java:68)
+	at java.base/java.util.concurrent.CompletableFuture$UniCompletion.claim(Unknown Source)
+	at java.base/java.util.concurrent.CompletableFuture$UniAccept.tryFire(Unknown Source)
+	at java.base/java.util.concurrent.CompletableFuture.postComplete(Unknown Source)
+	at java.base/java.util.concurrent.CompletableFuture.postFire(Unknown Source)
+	at java.base/java.util.concurrent.CompletableFuture$UniAccept.tryFire(Unknown Source)
+	at java.base/java.util.concurrent.CompletableFuture$Completion.run(Unknown Source)
+	at TRANSFORMER/minecraft@1.18.2/net.minecraft.server.packs.resources.SimpleReloadInstance.m_143940_(SimpleReloadInstance.java:69)
+	at TRANSFORMER/minecraft@1.18.2/net.minecraft.server.packs.resources.SimpleReloadInstance.m_10834_(SimpleReloadInstance.java:68)
+	at java.base/java.util.concurrent.CompletableFuture$UniCompletion.claim(Unknown Source)
+	at java.base/java.util.concurrent.CompletableFuture$UniAccept.tryFire(Unknown Source)
+	at java.base/java.util.concurrent.CompletableFuture.postComplete(Unknown Source)
+	at java.base/java.util.concurrent.CompletableFuture$AsyncSupply.run(Unknown Source)
+	at java.base/java.util.concurrent.CompletableFuture$AsyncSupply.exec(Unknown Source)
+	at java.base/java.util.concurrent.ForkJoinTask.doExec(Unknown Source)
+	at java.base/java.util.concurrent.ForkJoinPool$WorkQueue.topLevelExec(Unknown Source)
+	at java.base/java.util.concurrent.ForkJoinPool.scan(Unknown Source)
+	at java.base/java.util.concurrent.ForkJoinPool.runWorker(Unknown Source)
+	at java.base/java.util.concurrent.ForkJoinWorkerThread.run(Unknown Source)
+[22:42:13] [Worker-Main-10/DEBUG] [REI] ========================================
+[22:42:13] [Worker-Main-10/DEBUG] [REI] REIPlugin starting pre-reload for START.
+[22:42:13] [Worker-Main-10/DEBUG] [REI] Reloadables (7):
+[22:42:13] [Worker-Main-10/DEBUG] [REI]  - EntryTypeRegistryImpl
+[22:42:13] [Worker-Main-10/DEBUG] [REI]  - EntrySettingsAdapterRegistryImpl
+[22:42:13] [Worker-Main-10/DEBUG] [REI]  - RecipeManagerContextImpl
+[22:42:13] [Worker-Main-10/DEBUG] [REI]  - ItemComparatorRegistryImpl
+[22:42:13] [Worker-Main-10/DEBUG] [REI]  - FluidComparatorRegistryImpl
+[22:42:13] [Worker-Main-10/DEBUG] [REI]  - DisplaySerializerRegistryImpl
+[22:42:13] [Worker-Main-10/DEBUG] [REI]  - FluidSupportProviderImpl
+[22:42:13] [Worker-Main-10/DEBUG] [REI] Plugins (2):
+[22:42:13] [Worker-Main-10/DEBUG] [REI]  - (-100.00) DefaultPluginImpl of DefaultPluginImpl [roughlyenoughitems]
+[22:42:13] [Worker-Main-10/DEBUG] [REI]  - (0.00) DefaultRuntimePlugin of DefaultRuntimePlugin [roughlyenoughitems]
+[22:42:13] [Worker-Main-10/DEBUG] [REI] ========================================
+[22:42:13] [Worker-Main-10/TRACE] [REI] [REIPlugin START] Reloading Section: "pre-register/"
+[22:42:13] [Worker-Main-10/TRACE] [REI] [REIPlugin START] Reloading Section: "pre-register/DefaultPluginImpl of DefaultPluginImpl [roughlyenoughitems]/"
+[22:42:13] [Worker-Main-10/TRACE] [REI] [REIPlugin START] Reloading Section: "pre-register/DefaultPluginImpl of DefaultPluginImpl [roughlyenoughitems]/" done in 548.1 μs
+[22:42:13] [Worker-Main-10/TRACE] [REI] [REIPlugin START] Reloading Section: "pre-register/DefaultRuntimePlugin of DefaultRuntimePlugin [roughlyenoughitems]/"
+[22:42:13] [Worker-Main-10/TRACE] [REI] [REIPlugin START] Reloading Section: "pre-register/DefaultRuntimePlugin of DefaultRuntimePlugin [roughlyenoughitems]/" done in 28.56 μs
+[22:42:13] [Worker-Main-10/TRACE] [REI] [REIPlugin START] Reloading Section: "pre-register/" done in 6.889 ms
+[22:42:13] [Worker-Main-10/TRACE] [REI] [REIPlugin START] Reloading Section: "pre-stage/"
+[22:42:13] [Worker-Main-10/TRACE] [REI] [REIPlugin START] Reloading Section: "pre-stage/EntryTypeRegistryImpl/"
+[22:42:13] [Worker-Main-10/TRACE] [REI] [REIPlugin START] Reloading Section: "pre-stage/EntryTypeRegistryImpl/" done in 98.23 μs
+[22:42:13] [Worker-Main-10/TRACE] [REI] [REIPlugin START] Reloading Section: "pre-stage/EntrySettingsAdapterRegistryImpl/"
+[22:42:13] [Worker-Main-10/TRACE] [REI] [REIPlugin START] Reloading Section: "pre-stage/EntrySettingsAdapterRegistryImpl/" done in 13.48 μs
+[22:42:13] [Worker-Main-10/TRACE] [REI] [REIPlugin START] Reloading Section: "pre-stage/RecipeManagerContextImpl/"
+[22:42:13] [Worker-Main-10/TRACE] [REI] [REIPlugin START] Reloading Section: "pre-stage/RecipeManagerContextImpl/" done in 12.70 μs
+[22:42:13] [Worker-Main-10/TRACE] [REI] [REIPlugin START] Reloading Section: "pre-stage/ItemComparatorRegistryImpl/"
+[22:42:13] [Worker-Main-10/TRACE] [REI] [REIPlugin START] Reloading Section: "pre-stage/ItemComparatorRegistryImpl/" done in 12.37 μs
+[22:42:13] [Worker-Main-10/TRACE] [REI] [REIPlugin START] Reloading Section: "pre-stage/FluidComparatorRegistryImpl/"
+[22:42:13] [Worker-Main-10/TRACE] [REI] [REIPlugin START] Reloading Section: "pre-stage/FluidComparatorRegistryImpl/" done in 20.43 μs
+[22:42:13] [Worker-Main-10/TRACE] [REI] [REIPlugin START] Reloading Section: "pre-stage/DisplaySerializerRegistryImpl/"
+[22:42:13] [Worker-Main-10/TRACE] [REI] [REIPlugin START] Reloading Section: "pre-stage/DisplaySerializerRegistryImpl/" done in 12.07 μs
+[22:42:13] [Worker-Main-10/TRACE] [REI] [REIPlugin START] Reloading Section: "pre-stage/FluidSupportProviderImpl/"
+[22:42:13] [Worker-Main-10/TRACE] [REI] [REIPlugin START] Reloading Section: "pre-stage/FluidSupportProviderImpl/" done in 11.70 μs
+[22:42:13] [Worker-Main-10/TRACE] [REI] [REIPlugin START] Reloading Section: "pre-stage/" done in 397.1 μs
+[22:42:13] [Worker-Main-10/DEBUG] [REI] ========================================
+[22:42:13] [Worker-Main-10/DEBUG] [REI] REIPlugin finished pre-reload for START in 7.658 ms.
+[22:42:13] [Worker-Main-10/DEBUG] [REI] ========================================
+[22:42:13] [Worker-Main-10/DEBUG] [REI] ========================================
+[22:42:13] [Worker-Main-10/DEBUG] [REI] REIServerPlugin starting pre-reload for START.
+[22:42:13] [Worker-Main-10/DEBUG] [REI] Reloadables (2):
+[22:42:13] [Worker-Main-10/DEBUG] [REI]  - MenuInfoRegistryImpl
+[22:42:13] [Worker-Main-10/DEBUG] [REI]  - SlotAccessorRegistryImpl
+[22:42:13] [Worker-Main-10/DEBUG] [REI] Plugins (2):
+[22:42:13] [Worker-Main-10/DEBUG] [REI]  - (-100.00) DefaultPluginImpl of DefaultPluginImpl [roughlyenoughitems]
+[22:42:13] [Worker-Main-10/DEBUG] [REI]  - (0.00) DefaultRuntimePlugin of DefaultRuntimePlugin [roughlyenoughitems]
+[22:42:13] [Worker-Main-10/DEBUG] [REI] ========================================
+[22:42:13] [Worker-Main-10/TRACE] [REI] [REIServerPlugin START] Reloading Section: "pre-register/"
+[22:42:13] [Worker-Main-10/TRACE] [REI] [REIServerPlugin START] Reloading Section: "pre-register/DefaultPluginImpl of DefaultPluginImpl [roughlyenoughitems]/"
+[22:42:13] [Worker-Main-10/TRACE] [REI] [REIServerPlugin START] Reloading Section: "pre-register/DefaultPluginImpl of DefaultPluginImpl [roughlyenoughitems]/" done in 16.07 μs
+[22:42:13] [Worker-Main-10/TRACE] [REI] [REIServerPlugin START] Reloading Section: "pre-register/DefaultRuntimePlugin of DefaultRuntimePlugin [roughlyenoughitems]/"
+[22:42:13] [Worker-Main-10/TRACE] [REI] [REIServerPlugin START] Reloading Section: "pre-register/DefaultRuntimePlugin of DefaultRuntimePlugin [roughlyenoughitems]/" done in 13.62 μs
+[22:42:13] [Worker-Main-10/TRACE] [REI] [REIServerPlugin START] Reloading Section: "pre-register/" done in 97.78 μs
+[22:42:13] [Worker-Main-10/TRACE] [REI] [REIServerPlugin START] Reloading Section: "pre-stage/"
+[22:42:13] [Worker-Main-10/TRACE] [REI] [REIServerPlugin START] Reloading Section: "pre-stage/MenuInfoRegistryImpl/"
+[22:42:13] [Worker-Main-10/TRACE] [REI] [REIServerPlugin START] Reloading Section: "pre-stage/MenuInfoRegistryImpl/" done in 12.16 μs
+[22:42:13] [Worker-Main-10/TRACE] [REI] [REIServerPlugin START] Reloading Section: "pre-stage/SlotAccessorRegistryImpl/"
+[22:42:13] [Worker-Main-10/TRACE] [REI] [REIServerPlugin START] Reloading Section: "pre-stage/SlotAccessorRegistryImpl/" done in 11.98 μs
+[22:42:13] [Worker-Main-10/TRACE] [REI] [REIServerPlugin START] Reloading Section: "pre-stage/" done in 83.48 μs
+[22:42:13] [Worker-Main-10/DEBUG] [REI] ========================================
+[22:42:13] [Worker-Main-10/DEBUG] [REI] REIServerPlugin finished pre-reload for START in 218.6 μs.
+[22:42:13] [Worker-Main-10/DEBUG] [REI] ========================================
+[22:42:13] [Worker-Main-10/INFO] [REI] ++++++++++++++++++++++++++++++++++++++++
+[22:42:13] [Worker-Main-10/INFO] [REI] REIPlugin starting main-reload for START.
+[22:42:13] [Worker-Main-10/DEBUG] [REI] Reloadables (7):
+[22:42:13] [Worker-Main-10/DEBUG] [REI]  - EntryTypeRegistryImpl
+[22:42:13] [Worker-Main-10/DEBUG] [REI]  - EntrySettingsAdapterRegistryImpl
+[22:42:13] [Worker-Main-10/DEBUG] [REI]  - RecipeManagerContextImpl
+[22:42:13] [Worker-Main-10/DEBUG] [REI]  - ItemComparatorRegistryImpl
+[22:42:13] [Worker-Main-10/DEBUG] [REI]  - FluidComparatorRegistryImpl
+[22:42:13] [Worker-Main-10/DEBUG] [REI]  - DisplaySerializerRegistryImpl
+[22:42:13] [Worker-Main-10/DEBUG] [REI]  - FluidSupportProviderImpl
+[22:42:13] [Worker-Main-10/INFO] [REI] Plugins (2):
+[22:42:13] [Worker-Main-10/INFO] [REI]  - (-100.00) DefaultPluginImpl of DefaultPluginImpl [roughlyenoughitems]
+[22:42:13] [Worker-Main-10/INFO] [REI]  - (0.00) DefaultRuntimePlugin of DefaultRuntimePlugin [roughlyenoughitems]
+[22:42:13] [Worker-Main-10/INFO] [REI] ++++++++++++++++++++++++++++++++++++++++
+[22:42:13] [Worker-Main-10/TRACE] [REI] [REIPlugin START] Reloading Section: "start-reload/"
+[22:42:13] [Worker-Main-10/TRACE] [REI] [REIPlugin START] Reloading Section: "start-reload/EntryTypeRegistryImpl/"
+[22:42:13] [Worker-Main-10/TRACE] [REI] [REIPlugin START] Reloading Section: "start-reload/EntryTypeRegistryImpl/" done in 41.34 μs
+[22:42:13] [Worker-Main-10/TRACE] [REI] [REIPlugin START] Reloading Section: "start-reload/EntrySettingsAdapterRegistryImpl/"
+[22:42:13] [Worker-Main-10/TRACE] [REI] [REIPlugin START] Reloading Section: "start-reload/EntrySettingsAdapterRegistryImpl/" done in 14.42 μs
+[22:42:13] [Worker-Main-10/TRACE] [REI] [REIPlugin START] Reloading Section: "start-reload/RecipeManagerContextImpl/"
+[22:42:13] [Worker-Main-10/TRACE] [REI] [REIPlugin START] Reloading Section: "start-reload/RecipeManagerContextImpl/" done in 14.33 μs
+[22:42:13] [Worker-Main-10/TRACE] [REI] [REIPlugin START] Reloading Section: "start-reload/ItemComparatorRegistryImpl/"
+[22:42:13] [Worker-Main-10/TRACE] [REI] [REIPlugin START] Reloading Section: "start-reload/ItemComparatorRegistryImpl/" done in 29.75 μs
+[22:42:13] [Worker-Main-10/TRACE] [REI] [REIPlugin START] Reloading Section: "start-reload/FluidComparatorRegistryImpl/"
+[22:42:13] [Worker-Main-10/TRACE] [REI] [REIPlugin START] Reloading Section: "start-reload/FluidComparatorRegistryImpl/" done in 12.80 μs
+[22:42:13] [Worker-Main-10/TRACE] [REI] [REIPlugin START] Reloading Section: "start-reload/DisplaySerializerRegistryImpl/"
+[22:42:13] [Worker-Main-10/TRACE] [REI] [REIPlugin START] Reloading Section: "start-reload/DisplaySerializerRegistryImpl/" done in 11.87 μs
+[22:42:13] [Worker-Main-10/TRACE] [REI] [REIPlugin START] Reloading Section: "start-reload/FluidSupportProviderImpl/"
+[22:42:13] [Worker-Main-10/TRACE] [REI] [REIPlugin START] Reloading Section: "start-reload/FluidSupportProviderImpl/" done in 17.11 μs
+[22:42:13] [Worker-Main-10/TRACE] [REI] [REIPlugin START] Reloading Section: "start-reload/" done in 334.9 μs
+[22:42:13] [Worker-Main-10/DEBUG] [REI] ========================================
+[22:42:13] [Worker-Main-10/DEBUG] [REI] REIPlugin started main-reload for START.
+[22:42:13] [Worker-Main-10/DEBUG] [REI] ========================================
+[22:42:13] [Worker-Main-10/TRACE] [REI] [REIPlugin START] Reloading Section: "reloadable-plugin/EntryTypeRegistryImpl/"
+[22:42:13] [Worker-Main-10/TRACE] [REI] [REIPlugin START] Reloading Section: "reloadable-plugin/EntryTypeRegistryImpl/DefaultPluginImpl of DefaultPluginImpl [roughlyenoughitems]/"
+[22:42:13] [Worker-Main-10/TRACE] [REI] [REIPlugin START] Reloading Section: "reloadable-plugin/EntryTypeRegistryImpl/DefaultPluginImpl of DefaultPluginImpl [roughlyenoughitems]/" done in 112.2 μs
+[22:42:13] [Worker-Main-10/TRACE] [REI] [REIPlugin START] Reloading Section: "reloadable-plugin/EntryTypeRegistryImpl/DefaultRuntimePlugin of DefaultRuntimePlugin [roughlyenoughitems]/"
+[22:42:13] [Worker-Main-10/TRACE] [REI] [REIPlugin START] Reloading Section: "reloadable-plugin/EntryTypeRegistryImpl/DefaultRuntimePlugin of DefaultRuntimePlugin [roughlyenoughitems]/" done in 7.390 ms
+[22:42:13] [Worker-Main-10/TRACE] [REI] [REIPlugin START] Reloading Section: "reloadable-plugin/EntryTypeRegistryImpl/" done in 8.062 ms
+[22:42:13] [Worker-Main-10/TRACE] [REI] [REIPlugin START] Reloading Section: "reloadable-plugin/EntrySettingsAdapterRegistryImpl/"
+[22:42:13] [Worker-Main-10/TRACE] [REI] [REIPlugin START] Reloading Section: "reloadable-plugin/EntrySettingsAdapterRegistryImpl/DefaultPluginImpl of DefaultPluginImpl [roughlyenoughitems]/"
+[22:42:13] [Worker-Main-10/TRACE] [REI] [REIPlugin START] Reloading Section: "reloadable-plugin/EntrySettingsAdapterRegistryImpl/DefaultPluginImpl of DefaultPluginImpl [roughlyenoughitems]/" done in 17.84 μs
+[22:42:13] [Worker-Main-10/TRACE] [REI] [REIPlugin START] Reloading Section: "reloadable-plugin/EntrySettingsAdapterRegistryImpl/DefaultRuntimePlugin of DefaultRuntimePlugin [roughlyenoughitems]/"
+[22:42:13] [Worker-Main-10/TRACE] [REI] [REIPlugin START] Reloading Section: "reloadable-plugin/EntrySettingsAdapterRegistryImpl/DefaultRuntimePlugin of DefaultRuntimePlugin [roughlyenoughitems]/" done in 15.37 μs
+[22:42:13] [Worker-Main-10/TRACE] [REI] [REIPlugin START] Reloading Section: "reloadable-plugin/EntrySettingsAdapterRegistryImpl/" done in 162.9 μs
+[22:42:13] [Worker-Main-10/TRACE] [REI] [REIPlugin START] Reloading Section: "reloadable-plugin/RecipeManagerContextImpl/"
+[22:42:13] [Worker-Main-10/TRACE] [REI] [REIPlugin START] Reloading Section: "reloadable-plugin/RecipeManagerContextImpl/DefaultPluginImpl of DefaultPluginImpl [roughlyenoughitems]/"
+[22:42:13] [Worker-Main-10/TRACE] [REI] [REIPlugin START] Reloading Section: "reloadable-plugin/RecipeManagerContextImpl/DefaultPluginImpl of DefaultPluginImpl [roughlyenoughitems]/" done in 13.27 μs
+[22:42:13] [Worker-Main-10/TRACE] [REI] [REIPlugin START] Reloading Section: "reloadable-plugin/RecipeManagerContextImpl/DefaultRuntimePlugin of DefaultRuntimePlugin [roughlyenoughitems]/"
+[22:42:13] [Worker-Main-10/TRACE] [REI] [REIPlugin START] Reloading Section: "reloadable-plugin/RecipeManagerContextImpl/DefaultRuntimePlugin of DefaultRuntimePlugin [roughlyenoughitems]/" done in 15.53 μs
+[22:42:13] [Worker-Main-10/TRACE] [REI] [REIPlugin START] Reloading Section: "reloadable-plugin/RecipeManagerContextImpl/" done in 105.1 μs
+[22:42:13] [Worker-Main-10/TRACE] [REI] [REIPlugin START] Reloading Section: "reloadable-plugin/ItemComparatorRegistryImpl/"
+[22:42:13] [Worker-Main-10/TRACE] [REI] [REIPlugin START] Reloading Section: "reloadable-plugin/ItemComparatorRegistryImpl/DefaultPluginImpl of DefaultPluginImpl [roughlyenoughitems]/"
+[22:42:13] [Worker-Main-10/TRACE] [REI] [REIPlugin START] Reloading Section: "reloadable-plugin/ItemComparatorRegistryImpl/DefaultPluginImpl of DefaultPluginImpl [roughlyenoughitems]/" done in 596.0 μs
+[22:42:13] [Worker-Main-10/TRACE] [REI] [REIPlugin START] Reloading Section: "reloadable-plugin/ItemComparatorRegistryImpl/DefaultRuntimePlugin of DefaultRuntimePlugin [roughlyenoughitems]/"
+[22:42:13] [Worker-Main-10/TRACE] [REI] [REIPlugin START] Reloading Section: "reloadable-plugin/ItemComparatorRegistryImpl/DefaultRuntimePlugin of DefaultRuntimePlugin [roughlyenoughitems]/" done in 19.99 μs
+[22:42:13] [Worker-Main-10/TRACE] [REI] [REIPlugin START] Reloading Section: "reloadable-plugin/ItemComparatorRegistryImpl/" done in 760.1 μs
+[22:42:13] [Worker-Main-10/TRACE] [REI] [REIPlugin START] Reloading Section: "reloadable-plugin/FluidComparatorRegistryImpl/"
+[22:42:13] [Worker-Main-10/TRACE] [REI] [REIPlugin START] Reloading Section: "reloadable-plugin/FluidComparatorRegistryImpl/DefaultPluginImpl of DefaultPluginImpl [roughlyenoughitems]/"
+[22:42:13] [Worker-Main-10/TRACE] [REI] [REIPlugin START] Reloading Section: "reloadable-plugin/FluidComparatorRegistryImpl/DefaultPluginImpl of DefaultPluginImpl [roughlyenoughitems]/" done in 14.96 μs
+[22:42:13] [Worker-Main-10/TRACE] [REI] [REIPlugin START] Reloading Section: "reloadable-plugin/FluidComparatorRegistryImpl/DefaultRuntimePlugin of DefaultRuntimePlugin [roughlyenoughitems]/"
+[22:42:13] [Worker-Main-10/TRACE] [REI] [REIPlugin START] Reloading Section: "reloadable-plugin/FluidComparatorRegistryImpl/DefaultRuntimePlugin of DefaultRuntimePlugin [roughlyenoughitems]/" done in 11.80 μs
+[22:42:13] [Worker-Main-10/TRACE] [REI] [REIPlugin START] Reloading Section: "reloadable-plugin/FluidComparatorRegistryImpl/" done in 84.45 μs
+[22:42:13] [Worker-Main-10/TRACE] [REI] [REIPlugin START] Reloading Section: "reloadable-plugin/DisplaySerializerRegistryImpl/"
+[22:42:13] [Worker-Main-10/TRACE] [REI] [REIPlugin START] Reloading Section: "reloadable-plugin/DisplaySerializerRegistryImpl/DefaultPluginImpl of DefaultPluginImpl [roughlyenoughitems]/"
+[22:42:13] [Worker-Main-10/TRACE] [REI] [REIPlugin START] Reloading Section: "reloadable-plugin/DisplaySerializerRegistryImpl/DefaultPluginImpl of DefaultPluginImpl [roughlyenoughitems]/" done in 12.19 μs
+[22:42:13] [Worker-Main-10/TRACE] [REI] [REIPlugin START] Reloading Section: "reloadable-plugin/DisplaySerializerRegistryImpl/DefaultRuntimePlugin of DefaultRuntimePlugin [roughlyenoughitems]/"
+[22:42:13] [Worker-Main-10/TRACE] [REI] [REIPlugin START] Reloading Section: "reloadable-plugin/DisplaySerializerRegistryImpl/DefaultRuntimePlugin of DefaultRuntimePlugin [roughlyenoughitems]/" done in 11.32 μs
+[22:42:13] [Worker-Main-10/TRACE] [REI] [REIPlugin START] Reloading Section: "reloadable-plugin/DisplaySerializerRegistryImpl/" done in 74.51 μs
+[22:42:13] [Worker-Main-10/TRACE] [REI] [REIPlugin START] Reloading Section: "reloadable-plugin/FluidSupportProviderImpl/"
+[22:42:13] [Worker-Main-10/TRACE] [REI] [REIPlugin START] Reloading Section: "reloadable-plugin/FluidSupportProviderImpl/DefaultPluginImpl of DefaultPluginImpl [roughlyenoughitems]/"
+[22:42:13] [Worker-Main-10/TRACE] [REI] [REIPlugin START] Reloading Section: "reloadable-plugin/FluidSupportProviderImpl/DefaultPluginImpl of DefaultPluginImpl [roughlyenoughitems]/" done in 248.2 μs
+[22:42:13] [Worker-Main-10/TRACE] [REI] [REIPlugin START] Reloading Section: "reloadable-plugin/FluidSupportProviderImpl/DefaultRuntimePlugin of DefaultRuntimePlugin [roughlyenoughitems]/"
+[22:42:13] [Worker-Main-10/TRACE] [REI] [REIPlugin START] Reloading Section: "reloadable-plugin/FluidSupportProviderImpl/DefaultRuntimePlugin of DefaultRuntimePlugin [roughlyenoughitems]/" done in 16.56 μs
+[22:42:13] [Worker-Main-10/TRACE] [REI] [REIPlugin START] Reloading Section: "reloadable-plugin/FluidSupportProviderImpl/" done in 357.2 μs
+[22:42:13] [Worker-Main-10/DEBUG] [REI] ========================================
+[22:42:13] [Worker-Main-10/DEBUG] [REI] REIPlugin ending main-reload for START.
+[22:42:13] [Worker-Main-10/DEBUG] [REI] ========================================
+[22:42:13] [Worker-Main-10/TRACE] [REI] [REIPlugin START] Reloading Section: "end-reload/"
+[22:42:13] [Worker-Main-10/TRACE] [REI] [REIPlugin START] Reloading Section: "end-reload/EntryTypeRegistryImpl/"
+[22:42:13] [Worker-Main-10/TRACE] [REI] [REIPlugin START] Reloading Section: "end-reload/EntryTypeRegistryImpl/" done in 11.39 μs
+[22:42:13] [Worker-Main-10/TRACE] [REI] [REIPlugin START] Reloading Section: "end-reload/EntrySettingsAdapterRegistryImpl/"
+[22:42:13] [Worker-Main-10/TRACE] [REI] [REIPlugin START] Reloading Section: "end-reload/EntrySettingsAdapterRegistryImpl/" done in 11.27 μs
+[22:42:13] [Worker-Main-10/TRACE] [REI] [REIPlugin START] Reloading Section: "end-reload/RecipeManagerContextImpl/"
+[22:42:13] [Worker-Main-10/TRACE] [REI] [REIPlugin START] Reloading Section: "end-reload/RecipeManagerContextImpl/" done in 8.081 μs
+[22:42:13] [Worker-Main-10/TRACE] [REI] [REIPlugin START] Reloading Section: "end-reload/ItemComparatorRegistryImpl/"
+[22:42:13] [Worker-Main-10/TRACE] [REI] [REIPlugin START] Reloading Section: "end-reload/ItemComparatorRegistryImpl/" done in 8.029 μs
+[22:42:13] [Worker-Main-10/TRACE] [REI] [REIPlugin START] Reloading Section: "end-reload/FluidComparatorRegistryImpl/"
+[22:42:13] [Worker-Main-10/TRACE] [REI] [REIPlugin START] Reloading Section: "end-reload/FluidComparatorRegistryImpl/" done in 7.948 μs
+[22:42:13] [Worker-Main-10/TRACE] [REI] [REIPlugin START] Reloading Section: "end-reload/DisplaySerializerRegistryImpl/"
+[22:42:13] [Worker-Main-10/TRACE] [REI] [REIPlugin START] Reloading Section: "end-reload/DisplaySerializerRegistryImpl/" done in 7.898 μs
+[22:42:13] [Worker-Main-10/TRACE] [REI] [REIPlugin START] Reloading Section: "end-reload/FluidSupportProviderImpl/"
+[22:42:13] [Worker-Main-10/TRACE] [REI] [REIPlugin START] Reloading Section: "end-reload/FluidSupportProviderImpl/" done in 7.888 μs
+[22:42:13] [Worker-Main-10/TRACE] [REI] [REIPlugin START] Reloading Section: "end-reload/" done in 191.0 μs
+[22:42:13] [Worker-Main-10/DEBUG] [REI] ========================================
+[22:42:13] [Worker-Main-10/DEBUG] [REI] REIPlugin ended main-reload for START in 10.78 ms.
+[22:42:13] [Worker-Main-10/DEBUG] [REI] ========================================
+[22:42:13] [Worker-Main-10/INFO] [REI] @@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@
+[22:42:13] [Worker-Main-10/INFO] [REI] REIServerPlugin starting main-reload for START.
+[22:42:13] [Worker-Main-10/DEBUG] [REI] Reloadables (2):
+[22:42:13] [Worker-Main-10/DEBUG] [REI]  - MenuInfoRegistryImpl
+[22:42:13] [Worker-Main-10/DEBUG] [REI]  - SlotAccessorRegistryImpl
+[22:42:13] [Worker-Main-10/INFO] [REI] Plugins (2):
+[22:42:13] [Worker-Main-10/INFO] [REI]  - (-100.00) DefaultPluginImpl of DefaultPluginImpl [roughlyenoughitems]
+[22:42:13] [Worker-Main-10/INFO] [REI]  - (0.00) DefaultRuntimePlugin of DefaultRuntimePlugin [roughlyenoughitems]
+[22:42:13] [Worker-Main-10/INFO] [REI] @@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@
+[22:42:13] [Worker-Main-10/TRACE] [REI] [REIServerPlugin START] Reloading Section: "start-reload/"
+[22:42:13] [Worker-Main-10/TRACE] [REI] [REIServerPlugin START] Reloading Section: "start-reload/MenuInfoRegistryImpl/"
+[22:42:13] [Worker-Main-10/TRACE] [REI] [REIServerPlugin START] Reloading Section: "start-reload/MenuInfoRegistryImpl/" done in 10.29 μs
+[22:42:13] [Worker-Main-10/TRACE] [REI] [REIServerPlugin START] Reloading Section: "start-reload/SlotAccessorRegistryImpl/"
+[22:42:13] [Worker-Main-10/TRACE] [REI] [REIServerPlugin START] Reloading Section: "start-reload/SlotAccessorRegistryImpl/" done in 8.326 μs
+[22:42:13] [Worker-Main-10/TRACE] [REI] [REIServerPlugin START] Reloading Section: "start-reload/" done in 66.77 μs
+[22:42:13] [Worker-Main-10/DEBUG] [REI] ========================================
+[22:42:13] [Worker-Main-10/DEBUG] [REI] REIServerPlugin started main-reload for START.
+[22:42:13] [Worker-Main-10/DEBUG] [REI] ========================================
+[22:42:13] [Worker-Main-10/TRACE] [REI] [REIServerPlugin START] Reloading Section: "reloadable-plugin/MenuInfoRegistryImpl/"
+[22:42:13] [Worker-Main-10/TRACE] [REI] [REIServerPlugin START] Reloading Section: "reloadable-plugin/MenuInfoRegistryImpl/DefaultPluginImpl of DefaultPluginImpl [roughlyenoughitems]/"
+[22:42:13] [Worker-Main-10/TRACE] [REI] [REIServerPlugin START] Reloading Section: "reloadable-plugin/MenuInfoRegistryImpl/DefaultPluginImpl of DefaultPluginImpl [roughlyenoughitems]/" done in 11.91 μs
+[22:42:13] [Worker-Main-10/TRACE] [REI] [REIServerPlugin START] Reloading Section: "reloadable-plugin/MenuInfoRegistryImpl/DefaultRuntimePlugin of DefaultRuntimePlugin [roughlyenoughitems]/"
+[22:42:13] [Worker-Main-10/TRACE] [REI] [REIServerPlugin START] Reloading Section: "reloadable-plugin/MenuInfoRegistryImpl/DefaultRuntimePlugin of DefaultRuntimePlugin [roughlyenoughitems]/" done in 13.73 μs
+[22:42:13] [Worker-Main-10/TRACE] [REI] [REIServerPlugin START] Reloading Section: "reloadable-plugin/MenuInfoRegistryImpl/" done in 80.90 μs
+[22:42:13] [Worker-Main-10/TRACE] [REI] [REIServerPlugin START] Reloading Section: "reloadable-plugin/SlotAccessorRegistryImpl/"
+[22:42:13] [Worker-Main-10/TRACE] [REI] [REIServerPlugin START] Reloading Section: "reloadable-plugin/SlotAccessorRegistryImpl/DefaultPluginImpl of DefaultPluginImpl [roughlyenoughitems]/"
+[22:42:13] [Worker-Main-10/TRACE] [REI] [REIServerPlugin START] Reloading Section: "reloadable-plugin/SlotAccessorRegistryImpl/DefaultPluginImpl of DefaultPluginImpl [roughlyenoughitems]/" done in 11.28 μs
+[22:42:13] [Worker-Main-10/TRACE] [REI] [REIServerPlugin START] Reloading Section: "reloadable-plugin/SlotAccessorRegistryImpl/DefaultRuntimePlugin of DefaultRuntimePlugin [roughlyenoughitems]/"
+[22:42:13] [Worker-Main-10/TRACE] [REI] [REIServerPlugin START] Reloading Section: "reloadable-plugin/SlotAccessorRegistryImpl/DefaultRuntimePlugin of DefaultRuntimePlugin [roughlyenoughitems]/" done in 10.36 μs
+[22:42:13] [Worker-Main-10/TRACE] [REI] [REIServerPlugin START] Reloading Section: "reloadable-plugin/SlotAccessorRegistryImpl/" done in 82.47 μs
+[22:42:13] [Worker-Main-10/DEBUG] [REI] ========================================
+[22:42:13] [Worker-Main-10/DEBUG] [REI] REIServerPlugin ending main-reload for START.
+[22:42:13] [Worker-Main-10/DEBUG] [REI] ========================================
+[22:42:13] [Worker-Main-10/TRACE] [REI] [REIServerPlugin START] Reloading Section: "end-reload/"
+[22:42:13] [Worker-Main-10/TRACE] [REI] [REIServerPlugin START] Reloading Section: "end-reload/MenuInfoRegistryImpl/"
+[22:42:13] [Worker-Main-10/TRACE] [REI] [REIServerPlugin START] Reloading Section: "end-reload/MenuInfoRegistryImpl/" done in 25.32 μs
+[22:42:13] [Worker-Main-10/TRACE] [REI] [REIServerPlugin START] Reloading Section: "end-reload/SlotAccessorRegistryImpl/"
+[22:42:13] [Worker-Main-10/TRACE] [REI] [REIServerPlugin START] Reloading Section: "end-reload/SlotAccessorRegistryImpl/" done in 8.601 μs
+[22:42:13] [Worker-Main-10/TRACE] [REI] [REIServerPlugin START] Reloading Section: "end-reload/" done in 118.3 μs
+[22:42:13] [Worker-Main-10/DEBUG] [REI] ========================================
+[22:42:13] [Worker-Main-10/DEBUG] [REI] REIServerPlugin ended main-reload for START in 577.6 μs.
+[22:42:13] [Worker-Main-10/DEBUG] [REI] ========================================
+[22:42:13] [Worker-Main-10/DEBUG] [REI] ========================================
+[22:42:13] [Worker-Main-10/DEBUG] [REI] REIPlugin starting post-reload for START.
+[22:42:13] [Worker-Main-10/DEBUG] [REI] Reloadables (7):
+[22:42:13] [Worker-Main-10/DEBUG] [REI]  - EntryTypeRegistryImpl
+[22:42:13] [Worker-Main-10/DEBUG] [REI]  - EntrySettingsAdapterRegistryImpl
+[22:42:13] [Worker-Main-10/DEBUG] [REI]  - RecipeManagerContextImpl
+[22:42:13] [Worker-Main-10/DEBUG] [REI]  - ItemComparatorRegistryImpl
+[22:42:13] [Worker-Main-10/DEBUG] [REI]  - FluidComparatorRegistryImpl
+[22:42:13] [Worker-Main-10/DEBUG] [REI]  - DisplaySerializerRegistryImpl
+[22:42:13] [Worker-Main-10/DEBUG] [REI]  - FluidSupportProviderImpl
+[22:42:13] [Worker-Main-10/DEBUG] [REI] Plugins (2):
+[22:42:13] [Worker-Main-10/DEBUG] [REI]  - (-100.00) DefaultPluginImpl of DefaultPluginImpl [roughlyenoughitems]
+[22:42:13] [Worker-Main-10/DEBUG] [REI]  - (0.00) DefaultRuntimePlugin of DefaultRuntimePlugin [roughlyenoughitems]
+[22:42:13] [Worker-Main-10/DEBUG] [REI] ========================================
+[22:42:13] [Worker-Main-10/TRACE] [REI] [REIPlugin START] Reloading Section: "post-register/"
+[22:42:13] [Worker-Main-10/TRACE] [REI] [REIPlugin START] Reloading Section: "post-register/DefaultPluginImpl of DefaultPluginImpl [roughlyenoughitems]/"
+[22:42:13] [Worker-Main-10/TRACE] [REI] [REIPlugin START] Reloading Section: "post-register/DefaultPluginImpl of DefaultPluginImpl [roughlyenoughitems]/" done in 97.89 μs
+[22:42:13] [Worker-Main-10/TRACE] [REI] [REIPlugin START] Reloading Section: "post-register/DefaultRuntimePlugin of DefaultRuntimePlugin [roughlyenoughitems]/"
+[22:42:13] [Worker-Main-10/TRACE] [REI] [REIPlugin START] Reloading Section: "post-register/DefaultRuntimePlugin of DefaultRuntimePlugin [roughlyenoughitems]/" done in 20.17 μs
+[22:42:13] [Worker-Main-10/TRACE] [REI] [REIPlugin START] Reloading Section: "post-register/" done in 309.1 μs
+[22:42:13] [Worker-Main-10/TRACE] [REI] [REIPlugin START] Reloading Section: "post-stage/"
+[22:42:13] [Worker-Main-10/TRACE] [REI] [REIPlugin START] Reloading Section: "post-stage/EntryTypeRegistryImpl/"
+[22:42:13] [Worker-Main-10/TRACE] [REI] [REIPlugin START] Reloading Section: "post-stage/EntryTypeRegistryImpl/" done in 13.56 μs
+[22:42:13] [Worker-Main-10/TRACE] [REI] [REIPlugin START] Reloading Section: "post-stage/EntrySettingsAdapterRegistryImpl/"
+[22:42:13] [Worker-Main-10/TRACE] [REI] [REIPlugin START] Reloading Section: "post-stage/EntrySettingsAdapterRegistryImpl/" done in 8.411 μs
+[22:42:13] [Worker-Main-10/TRACE] [REI] [REIPlugin START] Reloading Section: "post-stage/RecipeManagerContextImpl/"
+[22:42:13] [Worker-Main-10/TRACE] [REI] [REIPlugin START] Reloading Section: "post-stage/RecipeManagerContextImpl/" done in 7.966 μs
+[22:42:13] [Worker-Main-10/TRACE] [REI] [REIPlugin START] Reloading Section: "post-stage/ItemComparatorRegistryImpl/"
+[22:42:13] [Worker-Main-10/TRACE] [REI] [REIPlugin START] Reloading Section: "post-stage/ItemComparatorRegistryImpl/" done in 7.051 μs
+[22:42:13] [Worker-Main-10/TRACE] [REI] [REIPlugin START] Reloading Section: "post-stage/FluidComparatorRegistryImpl/"
+[22:42:13] [Worker-Main-10/TRACE] [REI] [REIPlugin START] Reloading Section: "post-stage/FluidComparatorRegistryImpl/" done in 7.146 μs
+[22:42:13] [Worker-Main-10/TRACE] [REI] [REIPlugin START] Reloading Section: "post-stage/DisplaySerializerRegistryImpl/"
+[22:42:13] [Worker-Main-10/TRACE] [REI] [REIPlugin START] Reloading Section: "post-stage/DisplaySerializerRegistryImpl/" done in 7.263 μs
+[22:42:13] [Worker-Main-10/TRACE] [REI] [REIPlugin START] Reloading Section: "post-stage/FluidSupportProviderImpl/"
+[22:42:13] [Worker-Main-10/TRACE] [REI] [REIPlugin START] Reloading Section: "post-stage/FluidSupportProviderImpl/" done in 13.36 μs
+[22:42:13] [Worker-Main-10/TRACE] [REI] [REIPlugin START] Reloading Section: "post-stage/" done in 194.8 μs
+[22:42:13] [Worker-Main-10/DEBUG] [REI] ========================================
+[22:42:13] [Worker-Main-10/INFO] [REI] REIPlugin finished post-reload for START in 536.5 μs, totaling 18.97 ms.
+[22:42:13] [Worker-Main-10/DEBUG] [REI] ========================================
+[22:42:13] [Worker-Main-10/DEBUG] [REI] ========================================
+[22:42:13] [Worker-Main-10/DEBUG] [REI] REIServerPlugin starting post-reload for START.
+[22:42:13] [Worker-Main-10/DEBUG] [REI] Reloadables (2):
+[22:42:13] [Worker-Main-10/DEBUG] [REI]  - MenuInfoRegistryImpl
+[22:42:13] [Worker-Main-10/DEBUG] [REI]  - SlotAccessorRegistryImpl
+[22:42:13] [Worker-Main-10/DEBUG] [REI] Plugins (2):
+[22:42:13] [Worker-Main-10/DEBUG] [REI]  - (-100.00) DefaultPluginImpl of DefaultPluginImpl [roughlyenoughitems]
+[22:42:13] [Worker-Main-10/DEBUG] [REI]  - (0.00) DefaultRuntimePlugin of DefaultRuntimePlugin [roughlyenoughitems]
+[22:42:13] [Worker-Main-10/DEBUG] [REI] ========================================
+[22:42:13] [Worker-Main-10/TRACE] [REI] [REIServerPlugin START] Reloading Section: "post-register/"
+[22:42:13] [Worker-Main-10/TRACE] [REI] [REIServerPlugin START] Reloading Section: "post-register/DefaultPluginImpl of DefaultPluginImpl [roughlyenoughitems]/"
+[22:42:13] [Worker-Main-10/TRACE] [REI] [REIServerPlugin START] Reloading Section: "post-register/DefaultPluginImpl of DefaultPluginImpl [roughlyenoughitems]/" done in 11.10 μs
+[22:42:13] [Worker-Main-10/TRACE] [REI] [REIServerPlugin START] Reloading Section: "post-register/DefaultRuntimePlugin of DefaultRuntimePlugin [roughlyenoughitems]/"
+[22:42:13] [Worker-Main-10/TRACE] [REI] [REIServerPlugin START] Reloading Section: "post-register/DefaultRuntimePlugin of DefaultRuntimePlugin [roughlyenoughitems]/" done in 11.34 μs
+[22:42:13] [Worker-Main-10/TRACE] [REI] [REIServerPlugin START] Reloading Section: "post-register/" done in 69.42 μs
+[22:42:13] [Worker-Main-10/TRACE] [REI] [REIServerPlugin START] Reloading Section: "post-stage/"
+[22:42:13] [Worker-Main-10/TRACE] [REI] [REIServerPlugin START] Reloading Section: "post-stage/MenuInfoRegistryImpl/"
+[22:42:13] [Worker-Main-10/TRACE] [REI] [REIServerPlugin START] Reloading Section: "post-stage/MenuInfoRegistryImpl/" done in 20.03 μs
+[22:42:13] [Worker-Main-10/TRACE] [REI] [REIServerPlugin START] Reloading Section: "post-stage/SlotAccessorRegistryImpl/"
+[22:42:13] [Worker-Main-10/TRACE] [REI] [REIServerPlugin START] Reloading Section: "post-stage/SlotAccessorRegistryImpl/" done in 7.430 μs
+[22:42:13] [Worker-Main-10/TRACE] [REI] [REIServerPlugin START] Reloading Section: "post-stage/" done in 62.85 μs
+[22:42:13] [Worker-Main-10/DEBUG] [REI] ========================================
+[22:42:13] [Worker-Main-10/INFO] [REI] REIServerPlugin finished post-reload for START in 156.0 μs, totaling 947.1 μs.
+[22:42:13] [Worker-Main-10/DEBUG] [REI] ========================================
+[22:42:13] [Worker-Main-10/DEBUG] [REI] ========================================
+[22:42:13] [Worker-Main-10/DEBUG] [REI] REIPlugin starting pre-reload for END.
+[22:42:13] [Worker-Main-10/DEBUG] [REI] Reloadables (7):
+[22:42:13] [Worker-Main-10/DEBUG] [REI]  - EntryTypeRegistryImpl
+[22:42:13] [Worker-Main-10/DEBUG] [REI]  - EntrySettingsAdapterRegistryImpl
+[22:42:13] [Worker-Main-10/DEBUG] [REI]  - RecipeManagerContextImpl
+[22:42:13] [Worker-Main-10/DEBUG] [REI]  - ItemComparatorRegistryImpl
+[22:42:13] [Worker-Main-10/DEBUG] [REI]  - FluidComparatorRegistryImpl
+[22:42:13] [Worker-Main-10/DEBUG] [REI]  - DisplaySerializerRegistryImpl
+[22:42:13] [Worker-Main-10/DEBUG] [REI]  - FluidSupportProviderImpl
+[22:42:13] [Worker-Main-10/DEBUG] [REI] Plugins (2):
+[22:42:13] [Worker-Main-10/DEBUG] [REI]  - (-100.00) DefaultPluginImpl of DefaultPluginImpl [roughlyenoughitems]
+[22:42:13] [Worker-Main-10/DEBUG] [REI]  - (0.00) DefaultRuntimePlugin of DefaultRuntimePlugin [roughlyenoughitems]
+[22:42:13] [Worker-Main-10/DEBUG] [REI] ========================================
+[22:42:13] [Worker-Main-10/TRACE] [REI] [REIPlugin END] Reloading Section: "pre-register/"
+[22:42:13] [Worker-Main-10/TRACE] [REI] [REIPlugin END] Reloading Section: "pre-register/DefaultPluginImpl of DefaultPluginImpl [roughlyenoughitems]/"
+[22:42:13] [Worker-Main-10/TRACE] [REI] [REIPlugin END] Reloading Section: "pre-register/DefaultPluginImpl of DefaultPluginImpl [roughlyenoughitems]/" done in 10.06 μs
+[22:42:13] [Worker-Main-10/TRACE] [REI] [REIPlugin END] Reloading Section: "pre-register/DefaultRuntimePlugin of DefaultRuntimePlugin [roughlyenoughitems]/"
+[22:42:13] [Worker-Main-10/TRACE] [REI] [REIPlugin END] Reloading Section: "pre-register/DefaultRuntimePlugin of DefaultRuntimePlugin [roughlyenoughitems]/" done in 8.654 μs
+[22:42:13] [Worker-Main-10/TRACE] [REI] [REIPlugin END] Reloading Section: "pre-register/" done in 65.56 μs
+[22:42:13] [Worker-Main-10/TRACE] [REI] [REIPlugin END] Reloading Section: "pre-stage/"
+[22:42:13] [Worker-Main-10/TRACE] [REI] [REIPlugin END] Reloading Section: "pre-stage/EntryTypeRegistryImpl/"
+[22:42:13] [Worker-Main-10/TRACE] [REI] [REIPlugin END] Reloading Section: "pre-stage/EntryTypeRegistryImpl/" done in 8.329 μs
+[22:42:13] [Worker-Main-10/TRACE] [REI] [REIPlugin END] Reloading Section: "pre-stage/EntrySettingsAdapterRegistryImpl/"
+[22:42:13] [Worker-Main-10/TRACE] [REI] [REIPlugin END] Reloading Section: "pre-stage/EntrySettingsAdapterRegistryImpl/" done in 7.782 μs
+[22:42:13] [Worker-Main-10/TRACE] [REI] [REIPlugin END] Reloading Section: "pre-stage/RecipeManagerContextImpl/"
+[22:42:13] [Worker-Main-10/TRACE] [REI] [REIPlugin END] Reloading Section: "pre-stage/RecipeManagerContextImpl/" done in 7.257 μs
+[22:42:13] [Worker-Main-10/TRACE] [REI] [REIPlugin END] Reloading Section: "pre-stage/ItemComparatorRegistryImpl/"
+[22:42:13] [Worker-Main-10/TRACE] [REI] [REIPlugin END] Reloading Section: "pre-stage/ItemComparatorRegistryImpl/" done in 9.910 μs
+[22:42:13] [Worker-Main-10/TRACE] [REI] [REIPlugin END] Reloading Section: "pre-stage/FluidComparatorRegistryImpl/"
+[22:42:13] [Worker-Main-10/TRACE] [REI] [REIPlugin END] Reloading Section: "pre-stage/FluidComparatorRegistryImpl/" done in 9.286 μs
+[22:42:13] [Worker-Main-10/TRACE] [REI] [REIPlugin END] Reloading Section: "pre-stage/DisplaySerializerRegistryImpl/"
+[22:42:13] [Worker-Main-10/TRACE] [REI] [REIPlugin END] Reloading Section: "pre-stage/DisplaySerializerRegistryImpl/" done in 6.631 μs
+[22:42:13] [Worker-Main-10/TRACE] [REI] [REIPlugin END] Reloading Section: "pre-stage/FluidSupportProviderImpl/"
+[22:42:13] [Worker-Main-10/TRACE] [REI] [REIPlugin END] Reloading Section: "pre-stage/FluidSupportProviderImpl/" done in 6.665 μs
+[22:42:13] [Worker-Main-10/TRACE] [REI] [REIPlugin END] Reloading Section: "pre-stage/" done in 169.8 μs
+[22:42:13] [Worker-Main-10/DEBUG] [REI] ========================================
+[22:42:13] [Worker-Main-10/DEBUG] [REI] REIPlugin finished pre-reload for END in 259.7 μs.
+[22:42:13] [Worker-Main-10/DEBUG] [REI] ========================================
+[22:42:13] [Worker-Main-10/DEBUG] [REI] ========================================
+[22:42:13] [Worker-Main-10/DEBUG] [REI] REIServerPlugin starting pre-reload for END.
+[22:42:13] [Worker-Main-10/DEBUG] [REI] Reloadables (2):
+[22:42:13] [Worker-Main-10/DEBUG] [REI]  - MenuInfoRegistryImpl
+[22:42:13] [Worker-Main-10/DEBUG] [REI]  - SlotAccessorRegistryImpl
+[22:42:13] [Worker-Main-10/DEBUG] [REI] Plugins (2):
+[22:42:13] [Worker-Main-10/DEBUG] [REI]  - (-100.00) DefaultPluginImpl of DefaultPluginImpl [roughlyenoughitems]
+[22:42:13] [Worker-Main-10/DEBUG] [REI]  - (0.00) DefaultRuntimePlugin of DefaultRuntimePlugin [roughlyenoughitems]
+[22:42:13] [Worker-Main-10/DEBUG] [REI] ========================================
+[22:42:13] [Worker-Main-10/TRACE] [REI] [REIServerPlugin END] Reloading Section: "pre-register/"
+[22:42:13] [Worker-Main-10/TRACE] [REI] [REIServerPlugin END] Reloading Section: "pre-register/DefaultPluginImpl of DefaultPluginImpl [roughlyenoughitems]/"
+[22:42:13] [Worker-Main-10/TRACE] [REI] [REIServerPlugin END] Reloading Section: "pre-register/DefaultPluginImpl of DefaultPluginImpl [roughlyenoughitems]/" done in 9.682 μs
+[22:42:13] [Worker-Main-10/TRACE] [REI] [REIServerPlugin END] Reloading Section: "pre-register/DefaultRuntimePlugin of DefaultRuntimePlugin [roughlyenoughitems]/"
+[22:42:13] [Worker-Main-10/TRACE] [REI] [REIServerPlugin END] Reloading Section: "pre-register/DefaultRuntimePlugin of DefaultRuntimePlugin [roughlyenoughitems]/" done in 8.807 μs
+[22:42:13] [Worker-Main-10/TRACE] [REI] [REIServerPlugin END] Reloading Section: "pre-register/" done in 63.56 μs
+[22:42:13] [Worker-Main-10/TRACE] [REI] [REIServerPlugin END] Reloading Section: "pre-stage/"
+[22:42:13] [Worker-Main-10/TRACE] [REI] [REIServerPlugin END] Reloading Section: "pre-stage/MenuInfoRegistryImpl/"
+[22:42:13] [Worker-Main-10/TRACE] [REI] [REIServerPlugin END] Reloading Section: "pre-stage/MenuInfoRegistryImpl/" done in 8.360 μs
+[22:42:13] [Worker-Main-10/TRACE] [REI] [REIServerPlugin END] Reloading Section: "pre-stage/SlotAccessorRegistryImpl/"
+[22:42:13] [Worker-Main-10/TRACE] [REI] [REIServerPlugin END] Reloading Section: "pre-stage/SlotAccessorRegistryImpl/" done in 7.252 μs
+[22:42:13] [Worker-Main-10/TRACE] [REI] [REIServerPlugin END] Reloading Section: "pre-stage/" done in 48.79 μs
+[22:42:13] [Worker-Main-10/DEBUG] [REI] ========================================
+[22:42:13] [Worker-Main-10/DEBUG] [REI] REIServerPlugin finished pre-reload for END in 172.5 μs.
+[22:42:13] [Worker-Main-10/DEBUG] [REI] ========================================
+[22:42:13] [Worker-Main-10/INFO] [REI] ++++++++++++++++++++++++++++++++++++++++
+[22:42:13] [Worker-Main-10/INFO] [REI] REIPlugin starting main-reload for END.
+[22:42:13] [Worker-Main-10/DEBUG] [REI] Reloadables (7):
+[22:42:13] [Worker-Main-10/DEBUG] [REI]  - EntryTypeRegistryImpl
+[22:42:13] [Worker-Main-10/DEBUG] [REI]  - EntrySettingsAdapterRegistryImpl
+[22:42:13] [Worker-Main-10/DEBUG] [REI]  - RecipeManagerContextImpl
+[22:42:13] [Worker-Main-10/DEBUG] [REI]  - ItemComparatorRegistryImpl
+[22:42:13] [Worker-Main-10/DEBUG] [REI]  - FluidComparatorRegistryImpl
+[22:42:13] [Worker-Main-10/DEBUG] [REI]  - DisplaySerializerRegistryImpl
+[22:42:13] [Worker-Main-10/DEBUG] [REI]  - FluidSupportProviderImpl
+[22:42:13] [Worker-Main-10/INFO] [REI] Plugins (2):
+[22:42:13] [Worker-Main-10/INFO] [REI]  - (-100.00) DefaultPluginImpl of DefaultPluginImpl [roughlyenoughitems]
+[22:42:13] [Worker-Main-10/INFO] [REI]  - (0.00) DefaultRuntimePlugin of DefaultRuntimePlugin [roughlyenoughitems]
+[22:42:13] [Worker-Main-10/INFO] [REI] ++++++++++++++++++++++++++++++++++++++++
+[22:42:13] [Worker-Main-10/TRACE] [REI] [REIPlugin END] Reloading Section: "start-reload/"
+[22:42:13] [Worker-Main-10/TRACE] [REI] [REIPlugin END] Reloading Section: "start-reload/EntryTypeRegistryImpl/"
+[22:42:13] [Worker-Main-10/TRACE] [REI] [REIPlugin END] Reloading Section: "start-reload/EntryTypeRegistryImpl/" done in 8.185 μs
+[22:42:13] [Worker-Main-10/TRACE] [REI] [REIPlugin END] Reloading Section: "start-reload/EntrySettingsAdapterRegistryImpl/"
+[22:42:13] [Worker-Main-10/TRACE] [REI] [REIPlugin END] Reloading Section: "start-reload/EntrySettingsAdapterRegistryImpl/" done in 13.21 μs
+[22:42:13] [Worker-Main-10/TRACE] [REI] [REIPlugin END] Reloading Section: "start-reload/RecipeManagerContextImpl/"
+[22:42:13] [Worker-Main-10/TRACE] [REI] [REIPlugin END] Reloading Section: "start-reload/RecipeManagerContextImpl/" done in 10.32 μs
+[22:42:13] [Worker-Main-10/TRACE] [REI] [REIPlugin END] Reloading Section: "start-reload/ItemComparatorRegistryImpl/"
+[22:42:13] [Worker-Main-10/TRACE] [REI] [REIPlugin END] Reloading Section: "start-reload/ItemComparatorRegistryImpl/" done in 7.801 μs
+[22:42:13] [Worker-Main-10/TRACE] [REI] [REIPlugin END] Reloading Section: "start-reload/FluidComparatorRegistryImpl/"
+[22:42:13] [Worker-Main-10/TRACE] [REI] [REIPlugin END] Reloading Section: "start-reload/FluidComparatorRegistryImpl/" done in 6.745 μs
+[22:42:13] [Worker-Main-10/TRACE] [REI] [REIPlugin END] Reloading Section: "start-reload/DisplaySerializerRegistryImpl/"
+[22:42:13] [Worker-Main-10/TRACE] [REI] [REIPlugin END] Reloading Section: "start-reload/DisplaySerializerRegistryImpl/" done in 7.998 μs
+[22:42:13] [Worker-Main-10/TRACE] [REI] [REIPlugin END] Reloading Section: "start-reload/FluidSupportProviderImpl/"
+[22:42:13] [Worker-Main-10/TRACE] [REI] [REIPlugin END] Reloading Section: "start-reload/FluidSupportProviderImpl/" done in 7.010 μs
+[22:42:13] [Worker-Main-10/TRACE] [REI] [REIPlugin END] Reloading Section: "start-reload/" done in 166.8 μs
+[22:42:13] [Worker-Main-10/DEBUG] [REI] ========================================
+[22:42:13] [Worker-Main-10/DEBUG] [REI] REIPlugin started main-reload for END.
+[22:42:13] [Worker-Main-10/DEBUG] [REI] ========================================
+[22:42:13] [Worker-Main-10/TRACE] [REI] [REIPlugin END] Reloading Section: "reloadable-plugin/EntryTypeRegistryImpl/"
+[22:42:13] [Worker-Main-10/TRACE] [REI] [REIPlugin END] Reloading Section: "reloadable-plugin/EntryTypeRegistryImpl/DefaultPluginImpl of DefaultPluginImpl [roughlyenoughitems]/"
+[22:42:13] [Worker-Main-10/TRACE] [REI] [REIPlugin END] Reloading Section: "reloadable-plugin/EntryTypeRegistryImpl/DefaultPluginImpl of DefaultPluginImpl [roughlyenoughitems]/" done in 11.75 μs
+[22:42:13] [Worker-Main-10/TRACE] [REI] [REIPlugin END] Reloading Section: "reloadable-plugin/EntryTypeRegistryImpl/DefaultRuntimePlugin of DefaultRuntimePlugin [roughlyenoughitems]/"
+[22:42:13] [Worker-Main-10/TRACE] [REI] [REIPlugin END] Reloading Section: "reloadable-plugin/EntryTypeRegistryImpl/DefaultRuntimePlugin of DefaultRuntimePlugin [roughlyenoughitems]/" done in 10.59 μs
+[22:42:13] [Worker-Main-10/TRACE] [REI] [REIPlugin END] Reloading Section: "reloadable-plugin/EntryTypeRegistryImpl/" done in 65.63 μs
+[22:42:13] [Worker-Main-10/TRACE] [REI] [REIPlugin END] Reloading Section: "reloadable-plugin/EntrySettingsAdapterRegistryImpl/"
+[22:42:13] [Worker-Main-10/TRACE] [REI] [REIPlugin END] Reloading Section: "reloadable-plugin/EntrySettingsAdapterRegistryImpl/DefaultPluginImpl of DefaultPluginImpl [roughlyenoughitems]/"
+[22:42:13] [Worker-Main-10/TRACE] [REI] [REIPlugin END] Reloading Section: "reloadable-plugin/EntrySettingsAdapterRegistryImpl/DefaultPluginImpl of DefaultPluginImpl [roughlyenoughitems]/" done in 14.71 μs
+[22:42:13] [Worker-Main-10/TRACE] [REI] [REIPlugin END] Reloading Section: "reloadable-plugin/EntrySettingsAdapterRegistryImpl/DefaultRuntimePlugin of DefaultRuntimePlugin [roughlyenoughitems]/"
+[22:42:13] [Worker-Main-10/TRACE] [REI] [REIPlugin END] Reloading Section: "reloadable-plugin/EntrySettingsAdapterRegistryImpl/DefaultRuntimePlugin of DefaultRuntimePlugin [roughlyenoughitems]/" done in 10.55 μs
+[22:42:13] [Worker-Main-10/TRACE] [REI] [REIPlugin END] Reloading Section: "reloadable-plugin/EntrySettingsAdapterRegistryImpl/" done in 70.43 μs
+[22:42:13] [Worker-Main-10/TRACE] [REI] [REIPlugin END] Reloading Section: "reloadable-plugin/RecipeManagerContextImpl/"
+[22:42:13] [Worker-Main-10/TRACE] [REI] [REIPlugin END] Reloading Section: "reloadable-plugin/RecipeManagerContextImpl/DefaultPluginImpl of DefaultPluginImpl [roughlyenoughitems]/"
+[22:42:13] [Worker-Main-10/TRACE] [REI] [REIPlugin END] Reloading Section: "reloadable-plugin/RecipeManagerContextImpl/DefaultPluginImpl of DefaultPluginImpl [roughlyenoughitems]/" done in 10.29 μs
+[22:42:13] [Worker-Main-10/TRACE] [REI] [REIPlugin END] Reloading Section: "reloadable-plugin/RecipeManagerContextImpl/DefaultRuntimePlugin of DefaultRuntimePlugin [roughlyenoughitems]/"
+[22:42:13] [Worker-Main-10/TRACE] [REI] [REIPlugin END] Reloading Section: "reloadable-plugin/RecipeManagerContextImpl/DefaultRuntimePlugin of DefaultRuntimePlugin [roughlyenoughitems]/" done in 12.12 μs
+[22:42:13] [Worker-Main-10/TRACE] [REI] [REIPlugin END] Reloading Section: "reloadable-plugin/RecipeManagerContextImpl/" done in 63.77 μs
+[22:42:13] [Worker-Main-10/TRACE] [REI] [REIPlugin END] Reloading Section: "reloadable-plugin/ItemComparatorRegistryImpl/"
+[22:42:13] [Worker-Main-10/TRACE] [REI] [REIPlugin END] Reloading Section: "reloadable-plugin/ItemComparatorRegistryImpl/DefaultPluginImpl of DefaultPluginImpl [roughlyenoughitems]/"
+[22:42:13] [Worker-Main-10/TRACE] [REI] [REIPlugin END] Reloading Section: "reloadable-plugin/ItemComparatorRegistryImpl/DefaultPluginImpl of DefaultPluginImpl [roughlyenoughitems]/" done in 9.354 μs
+[22:42:13] [Worker-Main-10/TRACE] [REI] [REIPlugin END] Reloading Section: "reloadable-plugin/ItemComparatorRegistryImpl/DefaultRuntimePlugin of DefaultRuntimePlugin [roughlyenoughitems]/"
+[22:42:13] [Worker-Main-10/TRACE] [REI] [REIPlugin END] Reloading Section: "reloadable-plugin/ItemComparatorRegistryImpl/DefaultRuntimePlugin of DefaultRuntimePlugin [roughlyenoughitems]/" done in 9.015 μs
+[22:42:13] [Worker-Main-10/TRACE] [REI] [REIPlugin END] Reloading Section: "reloadable-plugin/ItemComparatorRegistryImpl/" done in 60.70 μs
+[22:42:13] [Worker-Main-10/TRACE] [REI] [REIPlugin END] Reloading Section: "reloadable-plugin/FluidComparatorRegistryImpl/"
+[22:42:13] [Worker-Main-10/TRACE] [REI] [REIPlugin END] Reloading Section: "reloadable-plugin/FluidComparatorRegistryImpl/DefaultPluginImpl of DefaultPluginImpl [roughlyenoughitems]/"
+[22:42:13] [Worker-Main-10/TRACE] [REI] [REIPlugin END] Reloading Section: "reloadable-plugin/FluidComparatorRegistryImpl/DefaultPluginImpl of DefaultPluginImpl [roughlyenoughitems]/" done in 9.353 μs
+[22:42:13] [Worker-Main-10/TRACE] [REI] [REIPlugin END] Reloading Section: "reloadable-plugin/FluidComparatorRegistryImpl/DefaultRuntimePlugin of DefaultRuntimePlugin [roughlyenoughitems]/"
+[22:42:13] [Worker-Main-10/TRACE] [REI] [REIPlugin END] Reloading Section: "reloadable-plugin/FluidComparatorRegistryImpl/DefaultRuntimePlugin of DefaultRuntimePlugin [roughlyenoughitems]/" done in 9.061 μs
+[22:42:13] [Worker-Main-10/TRACE] [REI] [REIPlugin END] Reloading Section: "reloadable-plugin/FluidComparatorRegistryImpl/" done in 59.02 μs
+[22:42:13] [Worker-Main-10/TRACE] [REI] [REIPlugin END] Reloading Section: "reloadable-plugin/DisplaySerializerRegistryImpl/"
+[22:42:13] [Worker-Main-10/TRACE] [REI] [REIPlugin END] Reloading Section: "reloadable-plugin/DisplaySerializerRegistryImpl/DefaultPluginImpl of DefaultPluginImpl [roughlyenoughitems]/"
+[22:42:13] [Worker-Main-10/TRACE] [REI] [REIPlugin END] Reloading Section: "reloadable-plugin/DisplaySerializerRegistryImpl/DefaultPluginImpl of DefaultPluginImpl [roughlyenoughitems]/" done in 10.56 ms
+[22:42:13] [Worker-Main-10/TRACE] [REI] [REIPlugin END] Reloading Section: "reloadable-plugin/DisplaySerializerRegistryImpl/DefaultRuntimePlugin of DefaultRuntimePlugin [roughlyenoughitems]/"
+[22:42:13] [Worker-Main-10/TRACE] [REI] [REIPlugin END] Reloading Section: "reloadable-plugin/DisplaySerializerRegistryImpl/DefaultRuntimePlugin of DefaultRuntimePlugin [roughlyenoughitems]/" done in 23.78 μs
+[22:42:13] [Worker-Main-10/TRACE] [REI] [REIPlugin END] Reloading Section: "reloadable-plugin/DisplaySerializerRegistryImpl/" done in 10.82 ms
+[22:42:13] [Worker-Main-10/TRACE] [REI] [REIPlugin END] Reloading Section: "reloadable-plugin/FluidSupportProviderImpl/"
+[22:42:13] [Worker-Main-10/TRACE] [REI] [REIPlugin END] Reloading Section: "reloadable-plugin/FluidSupportProviderImpl/DefaultPluginImpl of DefaultPluginImpl [roughlyenoughitems]/"
+[22:42:13] [Worker-Main-10/TRACE] [REI] [REIPlugin END] Reloading Section: "reloadable-plugin/FluidSupportProviderImpl/DefaultPluginImpl of DefaultPluginImpl [roughlyenoughitems]/" done in 9.588 μs
+[22:42:13] [Worker-Main-10/TRACE] [REI] [REIPlugin END] Reloading Section: "reloadable-plugin/FluidSupportProviderImpl/DefaultRuntimePlugin of DefaultRuntimePlugin [roughlyenoughitems]/"
+[22:42:13] [Worker-Main-10/TRACE] [REI] [REIPlugin END] Reloading Section: "reloadable-plugin/FluidSupportProviderImpl/DefaultRuntimePlugin of DefaultRuntimePlugin [roughlyenoughitems]/" done in 13.47 μs
+[22:42:13] [Worker-Main-10/TRACE] [REI] [REIPlugin END] Reloading Section: "reloadable-plugin/FluidSupportProviderImpl/" done in 132.6 μs
+[22:42:13] [Worker-Main-10/DEBUG] [REI] ========================================
+[22:42:13] [Worker-Main-10/DEBUG] [REI] REIPlugin ending main-reload for END.
+[22:42:13] [Worker-Main-10/DEBUG] [REI] ========================================
+[22:42:13] [Worker-Main-10/TRACE] [REI] [REIPlugin END] Reloading Section: "end-reload/"
+[22:42:13] [Worker-Main-10/TRACE] [REI] [REIPlugin END] Reloading Section: "end-reload/EntryTypeRegistryImpl/"
+[22:42:13] [Worker-Main-10/TRACE] [REI] [REIPlugin END] Reloading Section: "end-reload/EntryTypeRegistryImpl/" done in 6.636 μs
+[22:42:13] [Worker-Main-10/TRACE] [REI] [REIPlugin END] Reloading Section: "end-reload/EntrySettingsAdapterRegistryImpl/"
+[22:42:13] [Worker-Main-10/TRACE] [REI] [REIPlugin END] Reloading Section: "end-reload/EntrySettingsAdapterRegistryImpl/" done in 6.040 μs
+[22:42:13] [Worker-Main-10/TRACE] [REI] [REIPlugin END] Reloading Section: "end-reload/RecipeManagerContextImpl/"
+[22:42:13] [Worker-Main-10/TRACE] [REI] [REIPlugin END] Reloading Section: "end-reload/RecipeManagerContextImpl/" done in 5.644 μs
+[22:42:13] [Worker-Main-10/TRACE] [REI] [REIPlugin END] Reloading Section: "end-reload/ItemComparatorRegistryImpl/"
+[22:42:13] [Worker-Main-10/TRACE] [REI] [REIPlugin END] Reloading Section: "end-reload/ItemComparatorRegistryImpl/" done in 5.657 μs
+[22:42:13] [Worker-Main-10/TRACE] [REI] [REIPlugin END] Reloading Section: "end-reload/FluidComparatorRegistryImpl/"
+[22:42:13] [Worker-Main-10/TRACE] [REI] [REIPlugin END] Reloading Section: "end-reload/FluidComparatorRegistryImpl/" done in 5.228 μs
+[22:42:13] [Worker-Main-10/TRACE] [REI] [REIPlugin END] Reloading Section: "end-reload/DisplaySerializerRegistryImpl/"
+[22:42:13] [Worker-Main-10/TRACE] [REI] [REIPlugin END] Reloading Section: "end-reload/DisplaySerializerRegistryImpl/" done in 5.269 μs
+[22:42:13] [Worker-Main-10/TRACE] [REI] [REIPlugin END] Reloading Section: "end-reload/FluidSupportProviderImpl/"
+[22:42:13] [Worker-Main-10/TRACE] [REI] [REIPlugin END] Reloading Section: "end-reload/FluidSupportProviderImpl/" done in 5.227 μs
+[22:42:13] [Worker-Main-10/TRACE] [REI] [REIPlugin END] Reloading Section: "end-reload/" done in 117.0 μs
+[22:42:13] [Worker-Main-10/DEBUG] [REI] ========================================
+[22:42:13] [Worker-Main-10/DEBUG] [REI] REIPlugin ended main-reload for END in 11.80 ms.
+[22:42:13] [Worker-Main-10/DEBUG] [REI] ========================================
+[22:42:13] [Worker-Main-10/INFO] [REI] %%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%
+[22:42:13] [Worker-Main-10/INFO] [REI] REIServerPlugin starting main-reload for END.
+[22:42:13] [Worker-Main-10/DEBUG] [REI] Reloadables (2):
+[22:42:13] [Worker-Main-10/DEBUG] [REI]  - MenuInfoRegistryImpl
+[22:42:13] [Worker-Main-10/DEBUG] [REI]  - SlotAccessorRegistryImpl
+[22:42:13] [Worker-Main-10/INFO] [REI] Plugins (2):
+[22:42:13] [Worker-Main-10/INFO] [REI]  - (-100.00) DefaultPluginImpl of DefaultPluginImpl [roughlyenoughitems]
+[22:42:13] [Worker-Main-10/INFO] [REI]  - (0.00) DefaultRuntimePlugin of DefaultRuntimePlugin [roughlyenoughitems]
+[22:42:13] [Worker-Main-10/INFO] [REI] %%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%
+[22:42:13] [Worker-Main-10/TRACE] [REI] [REIServerPlugin END] Reloading Section: "start-reload/"
+[22:42:13] [Worker-Main-10/TRACE] [REI] [REIServerPlugin END] Reloading Section: "start-reload/MenuInfoRegistryImpl/"
+[22:42:13] [Worker-Main-10/TRACE] [REI] [REIServerPlugin END] Reloading Section: "start-reload/MenuInfoRegistryImpl/" done in 11.68 μs
+[22:42:13] [Worker-Main-10/TRACE] [REI] [REIServerPlugin END] Reloading Section: "start-reload/SlotAccessorRegistryImpl/"
+[22:42:13] [Worker-Main-10/TRACE] [REI] [REIServerPlugin END] Reloading Section: "start-reload/SlotAccessorRegistryImpl/" done in 8.850 μs
+[22:42:13] [Worker-Main-10/TRACE] [REI] [REIServerPlugin END] Reloading Section: "start-reload/" done in 76.17 μs
+[22:42:13] [Worker-Main-10/DEBUG] [REI] ========================================
+[22:42:13] [Worker-Main-10/DEBUG] [REI] REIServerPlugin started main-reload for END.
+[22:42:13] [Worker-Main-10/DEBUG] [REI] ========================================
+[22:42:13] [Worker-Main-10/TRACE] [REI] [REIServerPlugin END] Reloading Section: "reloadable-plugin/MenuInfoRegistryImpl/"
+[22:42:13] [Worker-Main-10/TRACE] [REI] [REIServerPlugin END] Reloading Section: "reloadable-plugin/MenuInfoRegistryImpl/DefaultPluginImpl of DefaultPluginImpl [roughlyenoughitems]/"
+[22:42:13] [Worker-Main-10/TRACE] [REI] [REIServerPlugin END] Reloading Section: "reloadable-plugin/MenuInfoRegistryImpl/DefaultPluginImpl of DefaultPluginImpl [roughlyenoughitems]/" done in 13.72 μs
+[22:42:13] [Worker-Main-10/TRACE] [REI] [REIServerPlugin END] Reloading Section: "reloadable-plugin/MenuInfoRegistryImpl/DefaultRuntimePlugin of DefaultRuntimePlugin [roughlyenoughitems]/"
+[22:42:13] [Worker-Main-10/TRACE] [REI] [REIServerPlugin END] Reloading Section: "reloadable-plugin/MenuInfoRegistryImpl/DefaultRuntimePlugin of DefaultRuntimePlugin [roughlyenoughitems]/" done in 8.671 μs
+[22:42:13] [Worker-Main-10/TRACE] [REI] [REIServerPlugin END] Reloading Section: "reloadable-plugin/MenuInfoRegistryImpl/" done in 63.35 μs
+[22:42:13] [Worker-Main-10/TRACE] [REI] [REIServerPlugin END] Reloading Section: "reloadable-plugin/SlotAccessorRegistryImpl/"
+[22:42:13] [Worker-Main-10/TRACE] [REI] [REIServerPlugin END] Reloading Section: "reloadable-plugin/SlotAccessorRegistryImpl/DefaultPluginImpl of DefaultPluginImpl [roughlyenoughitems]/"
+[22:42:13] [Worker-Main-10/TRACE] [REI] [REIServerPlugin END] Reloading Section: "reloadable-plugin/SlotAccessorRegistryImpl/DefaultPluginImpl of DefaultPluginImpl [roughlyenoughitems]/" done in 9.931 μs
+[22:42:13] [Worker-Main-10/TRACE] [REI] [REIServerPlugin END] Reloading Section: "reloadable-plugin/SlotAccessorRegistryImpl/DefaultRuntimePlugin of DefaultRuntimePlugin [roughlyenoughitems]/"
+[22:42:13] [Worker-Main-10/DEBUG] [REI] Added slot accessor serializer: me.shedaniel.rei.plugin.common.runtime.DefaultRuntimePlugin$1@6963e85a [roughlyenoughitems:vanilla]
+[22:42:13] [Worker-Main-10/DEBUG] [REI] Added slot accessor serializer: me.shedaniel.rei.plugin.common.runtime.DefaultRuntimePlugin$2@519deb6a [roughlyenoughitems:player]
+[22:42:13] [Worker-Main-10/TRACE] [REI] [REIServerPlugin END] Reloading Section: "reloadable-plugin/SlotAccessorRegistryImpl/DefaultRuntimePlugin of DefaultRuntimePlugin [roughlyenoughitems]/" done in 894.2 μs
+[22:42:13] [Worker-Main-10/TRACE] [REI] [REIServerPlugin END] Reloading Section: "reloadable-plugin/SlotAccessorRegistryImpl/" done in 957.9 μs
+[22:42:13] [Worker-Main-10/DEBUG] [REI] ========================================
+[22:42:13] [Worker-Main-10/DEBUG] [REI] REIServerPlugin ending main-reload for END.
+[22:42:13] [Worker-Main-10/DEBUG] [REI] ========================================
+[22:42:13] [Worker-Main-10/TRACE] [REI] [REIServerPlugin END] Reloading Section: "end-reload/"
+[22:42:13] [Worker-Main-10/TRACE] [REI] [REIServerPlugin END] Reloading Section: "end-reload/MenuInfoRegistryImpl/"
+[22:42:13] [Worker-Main-10/DEBUG] [REI] Registered 0 menu infos
+[22:42:13] [Worker-Main-10/TRACE] [REI] [REIServerPlugin END] Reloading Section: "end-reload/MenuInfoRegistryImpl/" done in 33.12 μs
+[22:42:13] [Worker-Main-10/TRACE] [REI] [REIServerPlugin END] Reloading Section: "end-reload/SlotAccessorRegistryImpl/"
+[22:42:13] [Worker-Main-10/DEBUG] [REI] Registered 2 slot accessor serializers
+[22:42:13] [Worker-Main-10/TRACE] [REI] [REIServerPlugin END] Reloading Section: "end-reload/SlotAccessorRegistryImpl/" done in 15.96 μs
+[22:42:13] [Worker-Main-10/TRACE] [REI] [REIServerPlugin END] Reloading Section: "end-reload/" done in 81.38 μs
+[22:42:13] [Worker-Main-10/DEBUG] [REI] ========================================
+[22:42:13] [Worker-Main-10/DEBUG] [REI] REIServerPlugin ended main-reload for END in 1.449 ms.
+[22:42:13] [Worker-Main-10/DEBUG] [REI] ========================================
+[22:42:13] [Worker-Main-10/DEBUG] [REI] ========================================
+[22:42:13] [Worker-Main-10/DEBUG] [REI] REIPlugin starting post-reload for END.
+[22:42:13] [Worker-Main-10/DEBUG] [REI] Reloadables (7):
+[22:42:13] [Worker-Main-10/DEBUG] [REI]  - EntryTypeRegistryImpl
+[22:42:13] [Worker-Main-10/DEBUG] [REI]  - EntrySettingsAdapterRegistryImpl
+[22:42:13] [Worker-Main-10/DEBUG] [REI]  - RecipeManagerContextImpl
+[22:42:13] [Worker-Main-10/DEBUG] [REI]  - ItemComparatorRegistryImpl
+[22:42:13] [Worker-Main-10/DEBUG] [REI]  - FluidComparatorRegistryImpl
+[22:42:13] [Worker-Main-10/DEBUG] [REI]  - DisplaySerializerRegistryImpl
+[22:42:13] [Worker-Main-10/DEBUG] [REI]  - FluidSupportProviderImpl
+[22:42:13] [Worker-Main-10/DEBUG] [REI] Plugins (2):
+[22:42:13] [Worker-Main-10/DEBUG] [REI]  - (-100.00) DefaultPluginImpl of DefaultPluginImpl [roughlyenoughitems]
+[22:42:13] [Worker-Main-10/DEBUG] [REI]  - (0.00) DefaultRuntimePlugin of DefaultRuntimePlugin [roughlyenoughitems]
+[22:42:13] [Worker-Main-10/DEBUG] [REI] ========================================
+[22:42:13] [Worker-Main-10/TRACE] [REI] [REIPlugin END] Reloading Section: "post-register/"
+[22:42:13] [Worker-Main-10/TRACE] [REI] [REIPlugin END] Reloading Section: "post-register/DefaultPluginImpl of DefaultPluginImpl [roughlyenoughitems]/"
+[22:42:13] [Worker-Main-10/TRACE] [REI] [REIPlugin END] Reloading Section: "post-register/DefaultPluginImpl of DefaultPluginImpl [roughlyenoughitems]/" done in 10.52 μs
+[22:42:13] [Worker-Main-10/TRACE] [REI] [REIPlugin END] Reloading Section: "post-register/DefaultRuntimePlugin of DefaultRuntimePlugin [roughlyenoughitems]/"
+[22:42:13] [Worker-Main-10/TRACE] [REI] [REIPlugin END] Reloading Section: "post-register/DefaultRuntimePlugin of DefaultRuntimePlugin [roughlyenoughitems]/" done in 7.772 μs
+[22:42:13] [Worker-Main-10/TRACE] [REI] [REIPlugin END] Reloading Section: "post-register/" done in 56.51 μs
+[22:42:13] [Worker-Main-10/TRACE] [REI] [REIPlugin END] Reloading Section: "post-stage/"
+[22:42:13] [Worker-Main-10/TRACE] [REI] [REIPlugin END] Reloading Section: "post-stage/EntryTypeRegistryImpl/"
+[22:42:13] [Worker-Main-10/TRACE] [REI] [REIPlugin END] Reloading Section: "post-stage/EntryTypeRegistryImpl/" done in 15.96 μs
+[22:42:13] [Worker-Main-10/TRACE] [REI] [REIPlugin END] Reloading Section: "post-stage/EntrySettingsAdapterRegistryImpl/"
+[22:42:13] [Worker-Main-10/TRACE] [REI] [REIPlugin END] Reloading Section: "post-stage/EntrySettingsAdapterRegistryImpl/" done in 5.686 μs
+[22:42:13] [Worker-Main-10/TRACE] [REI] [REIPlugin END] Reloading Section: "post-stage/RecipeManagerContextImpl/"
+[22:42:13] [Worker-Main-10/TRACE] [REI] [REIPlugin END] Reloading Section: "post-stage/RecipeManagerContextImpl/" done in 11.53 μs
+[22:42:13] [Worker-Main-10/TRACE] [REI] [REIPlugin END] Reloading Section: "post-stage/ItemComparatorRegistryImpl/"
+[22:42:13] [Worker-Main-10/TRACE] [REI] [REIPlugin END] Reloading Section: "post-stage/ItemComparatorRegistryImpl/" done in 5.413 μs
+[22:42:13] [Worker-Main-10/TRACE] [REI] [REIPlugin END] Reloading Section: "post-stage/FluidComparatorRegistryImpl/"
+[22:42:13] [Worker-Main-10/TRACE] [REI] [REIPlugin END] Reloading Section: "post-stage/FluidComparatorRegistryImpl/" done in 5.168 μs
+[22:42:13] [Worker-Main-10/TRACE] [REI] [REIPlugin END] Reloading Section: "post-stage/DisplaySerializerRegistryImpl/"
+[22:42:13] [Worker-Main-10/TRACE] [REI] [REIPlugin END] Reloading Section: "post-stage/DisplaySerializerRegistryImpl/" done in 4.956 μs
+[22:42:13] [Worker-Main-10/TRACE] [REI] [REIPlugin END] Reloading Section: "post-stage/FluidSupportProviderImpl/"
+[22:42:13] [Worker-Main-10/TRACE] [REI] [REIPlugin END] Reloading Section: "post-stage/FluidSupportProviderImpl/" done in 4.847 μs
+[22:42:13] [Worker-Main-10/TRACE] [REI] [REIPlugin END] Reloading Section: "post-stage/" done in 133.3 μs
+[22:42:13] [Worker-Main-10/DEBUG] [REI] ========================================
+[22:42:13] [Worker-Main-10/INFO] [REI] REIPlugin finished post-reload for END in 222.1 μs, totaling 12.27 ms.
+[22:42:13] [Worker-Main-10/DEBUG] [REI] ========================================
+[22:42:13] [Worker-Main-10/DEBUG] [REI] ========================================
+[22:42:13] [Worker-Main-10/DEBUG] [REI] REIServerPlugin starting post-reload for END.
+[22:42:13] [Worker-Main-10/DEBUG] [REI] Reloadables (2):
+[22:42:13] [Worker-Main-10/DEBUG] [REI]  - MenuInfoRegistryImpl
+[22:42:13] [Worker-Main-10/DEBUG] [REI]  - SlotAccessorRegistryImpl
+[22:42:13] [Worker-Main-10/DEBUG] [REI] Plugins (2):
+[22:42:13] [Worker-Main-10/DEBUG] [REI]  - (-100.00) DefaultPluginImpl of DefaultPluginImpl [roughlyenoughitems]
+[22:42:13] [Worker-Main-10/DEBUG] [REI]  - (0.00) DefaultRuntimePlugin of DefaultRuntimePlugin [roughlyenoughitems]
+[22:42:13] [Worker-Main-10/DEBUG] [REI] ========================================
+[22:42:13] [Worker-Main-10/TRACE] [REI] [REIServerPlugin END] Reloading Section: "post-register/"
+[22:42:13] [Worker-Main-10/TRACE] [REI] [REIServerPlugin END] Reloading Section: "post-register/DefaultPluginImpl of DefaultPluginImpl [roughlyenoughitems]/"
+[22:42:13] [Worker-Main-10/TRACE] [REI] [REIServerPlugin END] Reloading Section: "post-register/DefaultPluginImpl of DefaultPluginImpl [roughlyenoughitems]/" done in 8.678 μs
+[22:42:13] [Worker-Main-10/TRACE] [REI] [REIServerPlugin END] Reloading Section: "post-register/DefaultRuntimePlugin of DefaultRuntimePlugin [roughlyenoughitems]/"
+[22:42:13] [Worker-Main-10/TRACE] [REI] [REIServerPlugin END] Reloading Section: "post-register/DefaultRuntimePlugin of DefaultRuntimePlugin [roughlyenoughitems]/" done in 7.129 μs
+[22:42:13] [Worker-Main-10/TRACE] [REI] [REIServerPlugin END] Reloading Section: "post-register/" done in 54.98 μs
+[22:42:13] [Worker-Main-10/TRACE] [REI] [REIServerPlugin END] Reloading Section: "post-stage/"
+[22:42:13] [Worker-Main-10/TRACE] [REI] [REIServerPlugin END] Reloading Section: "post-stage/MenuInfoRegistryImpl/"
+[22:42:13] [Worker-Main-10/TRACE] [REI] [REIServerPlugin END] Reloading Section: "post-stage/MenuInfoRegistryImpl/" done in 6.060 μs
+[22:42:13] [Worker-Main-10/TRACE] [REI] [REIServerPlugin END] Reloading Section: "post-stage/SlotAccessorRegistryImpl/"
+[22:42:13] [Worker-Main-10/TRACE] [REI] [REIServerPlugin END] Reloading Section: "post-stage/SlotAccessorRegistryImpl/" done in 5.318 μs
+[22:42:13] [Worker-Main-10/TRACE] [REI] [REIServerPlugin END] Reloading Section: "post-stage/" done in 34.37 μs
+[22:42:13] [Worker-Main-10/DEBUG] [REI] ========================================
+[22:42:13] [Worker-Main-10/INFO] [REI] REIServerPlugin finished post-reload for END in 104.3 μs, totaling 1.639 ms.
+[22:42:13] [Worker-Main-10/DEBUG] [REI] ========================================
