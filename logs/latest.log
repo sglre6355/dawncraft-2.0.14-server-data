@@ -1816,3 +1816,137 @@ org.spongepowered.asm.mixin.injection.throwables.InvalidInjectionException: @At(
 [23Feb2025 23:05:40.378] [Server thread/ERROR] [Apotheosis : Adventure/]: Failed to execute LootRule minecraft:diamond_helmet/common/STAT/0.25!
 [23Feb2025 23:05:40.576] [Server thread/ERROR] [Apotheosis : Adventure/]: Failed to execute LootRule minecraft:chainmail_helmet/common/STAT/0.25!
 [23Feb2025 23:05:47.278] [Server thread/ERROR] [Apotheosis : Adventure/]: Failed to execute LootRule minecraft:diamond_helmet/common/STAT/0.25!
+[23Feb2025 23:12:33.480] [Server thread/INFO] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: sglre6355 lost connection: Disconnected
+[23Feb2025 23:12:33.480] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: sglre6355 left the game
+[23Feb2025 23:19:44.911] [User Authenticator #3/INFO] [net.minecraft.server.network.ServerLoginPacketListenerImpl/]: UUID of player sglre6355 is 53ab8822-7f46-4a3e-bc3d-64d7b5b961b3
+[23Feb2025 23:19:48.331] [Server thread/INFO] [net.minecraftforge.common.AdvancementLoadFix/]: Using new advancement loading for net.minecraft.server.PlayerAdvancements@2fd91fab
+[23Feb2025 23:19:48.337] [Server thread/ERROR] [net.minecraft.stats.ServerRecipeBook/]: Tried to load unrecognized recipe: apotheosis:crystal_seashelf removed now.
+[23Feb2025 23:19:48.337] [Server thread/ERROR] [net.minecraft.stats.ServerRecipeBook/]: Tried to load unrecognized recipe: apotheosis:boots_tome removed now.
+[23Feb2025 23:19:48.337] [Server thread/ERROR] [net.minecraft.stats.ServerRecipeBook/]: Tried to load unrecognized recipe: apotheosis:beeshelf removed now.
+[23Feb2025 23:19:48.337] [Server thread/ERROR] [net.minecraft.stats.ServerRecipeBook/]: Tried to load unrecognized recipe: apotheosis:helmet_tome removed now.
+[23Feb2025 23:19:48.337] [Server thread/ERROR] [net.minecraft.stats.ServerRecipeBook/]: Tried to load unrecognized recipe: apotheosis:seashelf removed now.
+[23Feb2025 23:19:48.337] [Server thread/ERROR] [net.minecraft.stats.ServerRecipeBook/]: Tried to load unrecognized recipe: apotheosis:hellshelf removed now.
+[23Feb2025 23:19:48.337] [Server thread/ERROR] [net.minecraft.stats.ServerRecipeBook/]: Tried to load unrecognized recipe: apotheosis:library removed now.
+[23Feb2025 23:19:48.337] [Server thread/ERROR] [net.minecraft.stats.ServerRecipeBook/]: Tried to load unrecognized recipe: apotheosis:glowing_hellshelf removed now.
+[23Feb2025 23:19:48.338] [Server thread/ERROR] [net.minecraft.stats.ServerRecipeBook/]: Tried to load unrecognized recipe: apotheosis:endshelf removed now.
+[23Feb2025 23:19:48.338] [Server thread/ERROR] [net.minecraft.stats.ServerRecipeBook/]: Tried to load unrecognized recipe: apotheosis:melonshelf removed now.
+[23Feb2025 23:19:48.338] [Server thread/ERROR] [net.minecraft.stats.ServerRecipeBook/]: Tried to load unrecognized recipe: apotheosis:vial_of_extraction removed now.
+[23Feb2025 23:19:48.338] [Server thread/ERROR] [net.minecraft.stats.ServerRecipeBook/]: Tried to load unrecognized recipe: apotheosis:pearl_endshelf removed now.
+[23Feb2025 23:19:48.338] [Server thread/ERROR] [net.minecraft.stats.ServerRecipeBook/]: Tried to load unrecognized recipe: apotheosis:enchanted_golden_apple removed now.
+[23Feb2025 23:19:48.339] [Server thread/ERROR] [net.minecraft.stats.ServerRecipeBook/]: Tried to load unrecognized recipe: apotheosis:other_tome removed now.
+[23Feb2025 23:19:48.339] [Server thread/ERROR] [net.minecraft.stats.ServerRecipeBook/]: Tried to load unrecognized recipe: apotheosis:vial_of_expulsion removed now.
+[23Feb2025 23:19:48.339] [Server thread/ERROR] [net.minecraft.stats.ServerRecipeBook/]: Tried to load unrecognized recipe: apotheosis:bow_tome removed now.
+[23Feb2025 23:19:48.339] [Server thread/ERROR] [net.minecraft.stats.ServerRecipeBook/]: Tried to load unrecognized recipe: apotheosis:heart_seashelf removed now.
+[23Feb2025 23:19:48.339] [Server thread/ERROR] [net.minecraft.stats.ServerRecipeBook/]: Tried to load unrecognized recipe: apotheosis:pickaxe_tome removed now.
+[23Feb2025 23:19:48.339] [Server thread/ERROR] [net.minecraft.stats.ServerRecipeBook/]: Tried to load unrecognized recipe: apotheosis:weapon_tome removed now.
+[23Feb2025 23:19:48.339] [Server thread/ERROR] [net.minecraft.stats.ServerRecipeBook/]: Tried to load unrecognized recipe: apotheosis:blazing_hellshelf removed now.
+[23Feb2025 23:19:48.340] [Server thread/ERROR] [net.minecraft.stats.ServerRecipeBook/]: Tried to load unrecognized recipe: apotheosis:fishing_tome removed now.
+[23Feb2025 23:19:48.340] [Server thread/ERROR] [net.minecraft.stats.ServerRecipeBook/]: Tried to load unrecognized recipe: apotheosis:draconic_endshelf removed now.
+[23Feb2025 23:19:48.340] [Server thread/ERROR] [net.minecraft.stats.ServerRecipeBook/]: Tried to load unrecognized recipe: apotheosis:chestplate_tome removed now.
+[23Feb2025 23:19:48.340] [Server thread/ERROR] [net.minecraft.stats.ServerRecipeBook/]: Tried to load unrecognized recipe: apotheosis:ender_lead removed now.
+[23Feb2025 23:19:48.340] [Server thread/ERROR] [net.minecraft.stats.ServerRecipeBook/]: Tried to load unrecognized recipe: crafttweaker:main.zs removed now.
+[23Feb2025 23:19:48.340] [Server thread/ERROR] [net.minecraft.stats.ServerRecipeBook/]: Tried to load unrecognized recipe: apotheosis:leggings_tome removed now.
+[23Feb2025 23:19:48.340] [Server thread/ERROR] [net.minecraft.stats.ServerRecipeBook/]: Tried to load unrecognized recipe: apotheosis:potion_charm_enchanting removed now.
+[23Feb2025 23:19:48.341] [Server thread/ERROR] [net.minecraft.stats.ServerRecipeBook/]: Tried to load unrecognized recipe: apotheosis:crystal_seashelf removed now.
+[23Feb2025 23:19:48.341] [Server thread/ERROR] [net.minecraft.stats.ServerRecipeBook/]: Tried to load unrecognized recipe: apotheosis:boots_tome removed now.
+[23Feb2025 23:19:48.341] [Server thread/ERROR] [net.minecraft.stats.ServerRecipeBook/]: Tried to load unrecognized recipe: apotheosis:beeshelf removed now.
+[23Feb2025 23:19:48.341] [Server thread/ERROR] [net.minecraft.stats.ServerRecipeBook/]: Tried to load unrecognized recipe: apotheosis:helmet_tome removed now.
+[23Feb2025 23:19:48.341] [Server thread/ERROR] [net.minecraft.stats.ServerRecipeBook/]: Tried to load unrecognized recipe: apotheosis:seashelf removed now.
+[23Feb2025 23:19:48.341] [Server thread/ERROR] [net.minecraft.stats.ServerRecipeBook/]: Tried to load unrecognized recipe: apotheosis:hellshelf removed now.
+[23Feb2025 23:19:48.341] [Server thread/ERROR] [net.minecraft.stats.ServerRecipeBook/]: Tried to load unrecognized recipe: apotheosis:library removed now.
+[23Feb2025 23:19:48.341] [Server thread/ERROR] [net.minecraft.stats.ServerRecipeBook/]: Tried to load unrecognized recipe: apotheosis:glowing_hellshelf removed now.
+[23Feb2025 23:19:48.341] [Server thread/ERROR] [net.minecraft.stats.ServerRecipeBook/]: Tried to load unrecognized recipe: apotheosis:endshelf removed now.
+[23Feb2025 23:19:48.341] [Server thread/ERROR] [net.minecraft.stats.ServerRecipeBook/]: Tried to load unrecognized recipe: apotheosis:melonshelf removed now.
+[23Feb2025 23:19:48.341] [Server thread/ERROR] [net.minecraft.stats.ServerRecipeBook/]: Tried to load unrecognized recipe: apotheosis:vial_of_extraction removed now.
+[23Feb2025 23:19:48.342] [Server thread/ERROR] [net.minecraft.stats.ServerRecipeBook/]: Tried to load unrecognized recipe: apotheosis:pearl_endshelf removed now.
+[23Feb2025 23:19:48.342] [Server thread/ERROR] [net.minecraft.stats.ServerRecipeBook/]: Tried to load unrecognized recipe: apotheosis:enchanted_golden_apple removed now.
+[23Feb2025 23:19:48.342] [Server thread/ERROR] [net.minecraft.stats.ServerRecipeBook/]: Tried to load unrecognized recipe: apotheosis:other_tome removed now.
+[23Feb2025 23:19:48.342] [Server thread/ERROR] [net.minecraft.stats.ServerRecipeBook/]: Tried to load unrecognized recipe: apotheosis:vial_of_expulsion removed now.
+[23Feb2025 23:19:48.342] [Server thread/ERROR] [net.minecraft.stats.ServerRecipeBook/]: Tried to load unrecognized recipe: apotheosis:bow_tome removed now.
+[23Feb2025 23:19:48.343] [Server thread/ERROR] [net.minecraft.stats.ServerRecipeBook/]: Tried to load unrecognized recipe: apotheosis:heart_seashelf removed now.
+[23Feb2025 23:19:48.343] [Server thread/ERROR] [net.minecraft.stats.ServerRecipeBook/]: Tried to load unrecognized recipe: apotheosis:pickaxe_tome removed now.
+[23Feb2025 23:19:48.343] [Server thread/ERROR] [net.minecraft.stats.ServerRecipeBook/]: Tried to load unrecognized recipe: apotheosis:weapon_tome removed now.
+[23Feb2025 23:19:48.343] [Server thread/ERROR] [net.minecraft.stats.ServerRecipeBook/]: Tried to load unrecognized recipe: apotheosis:blazing_hellshelf removed now.
+[23Feb2025 23:19:48.343] [Server thread/ERROR] [net.minecraft.stats.ServerRecipeBook/]: Tried to load unrecognized recipe: apotheosis:fishing_tome removed now.
+[23Feb2025 23:19:48.343] [Server thread/ERROR] [net.minecraft.stats.ServerRecipeBook/]: Tried to load unrecognized recipe: apotheosis:draconic_endshelf removed now.
+[23Feb2025 23:19:48.343] [Server thread/ERROR] [net.minecraft.stats.ServerRecipeBook/]: Tried to load unrecognized recipe: apotheosis:chestplate_tome removed now.
+[23Feb2025 23:19:48.344] [Server thread/ERROR] [net.minecraft.stats.ServerRecipeBook/]: Tried to load unrecognized recipe: apotheosis:ender_lead removed now.
+[23Feb2025 23:19:48.344] [Server thread/ERROR] [net.minecraft.stats.ServerRecipeBook/]: Tried to load unrecognized recipe: crafttweaker:main.zs removed now.
+[23Feb2025 23:19:48.344] [Server thread/ERROR] [net.minecraft.stats.ServerRecipeBook/]: Tried to load unrecognized recipe: apotheosis:leggings_tome removed now.
+[23Feb2025 23:19:48.344] [Server thread/ERROR] [net.minecraft.stats.ServerRecipeBook/]: Tried to load unrecognized recipe: apotheosis:potion_charm_enchanting removed now.
+[23Feb2025 23:19:48.344] [Server thread/INFO] [net.minecraft.server.players.PlayerList/]: sglre6355[/10.244.1.105:43264] logged in with entity id 4585 at (105.12565313685342, 71.5, 142.77341814409309)
+[23Feb2025 23:19:48.346] [Server thread/INFO] [ModdingLegacy/blue_skies/]: Sending ToolHandleTypeManager to sglre6355
+[23Feb2025 23:19:48.346] [Server thread/INFO] [ModdingLegacy/blue_skies/]: Sending SnowcapOvenFreezingManager to sglre6355
+[23Feb2025 23:19:48.347] [Server thread/INFO] [ModdingLegacy/blue_skies/]: Sending HorizoniteForgeFuelManager to sglre6355
+[23Feb2025 23:19:48.347] [Server thread/INFO] [ModdingLegacy/blue_skies/]: Sending AlchemyRecipeManager to sglre6355
+[23Feb2025 23:19:48.347] [Server thread/INFO] [ModdingLegacy/blue_skies/]: Sending JournalEntryManager to sglre6355
+[23Feb2025 23:19:48.348] [Server thread/INFO] [ModdingLegacy/blue_skies/]: Sending JournalSectionManager to sglre6355
+[23Feb2025 23:19:48.348] [Server thread/INFO] [ModdingLegacy/blue_skies/]: Sending JournalRequirementManager to sglre6355
+[23Feb2025 23:19:48.354] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: sglre6355 joined the game
+[23Feb2025 23:19:48.354] [Server thread/INFO] [Reputation/]: Syncing 3 factions to the client
+[23Feb2025 23:19:48.379] [Server thread/INFO] [Waila/]: Syncing config to sglre6355 (53ab8822-7f46-4a3e-bc3d-64d7b5b961b3)
+[23Feb2025 23:19:48.379] [Server thread/INFO] [untamedwilds.UntamedWilds/]: Firing player login event
+[23Feb2025 23:20:27.423] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: sglre6355 has made the advancement [Not Quite Common]
+[23Feb2025 23:20:27.792] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: sglre6355 has made the advancement [Ice Bucket Challenge]
+[23Feb2025 23:20:43.325] [Server thread/ERROR] [Apotheosis : Adventure/]: Failed to execute LootRule minecraft:leather_helmet/common/STAT/0.25!
+[23Feb2025 23:20:44.275] [Server thread/ERROR] [Apotheosis : Adventure/]: Failed to execute LootRule minecraft:chainmail_helmet/common/STAT/0.25!
+[23Feb2025 23:20:44.477] [Server thread/ERROR] [Apotheosis : Adventure/]: Failed to execute LootRule minecraft:leather_helmet/common/STAT/0.25!
+[23Feb2025 23:20:44.576] [Server thread/ERROR] [Apotheosis : Adventure/]: Failed to execute LootRule minecraft:golden_helmet/common/STAT/0.25!
+[23Feb2025 23:20:45.278] [Server thread/ERROR] [Apotheosis : Adventure/]: Failed to execute LootRule minecraft:diamond_helmet/common/STAT/0.25!
+[23Feb2025 23:21:11.864] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: sglre6355 has made the advancement [Sweet Dreams]
+[23Feb2025 23:21:16.879] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: sglre6355 has made the advancement [Notorious!]
+[23Feb2025 23:21:16.895] [Server thread/INFO] [sereneseasons/]: Season time skipped by 2530 in blue_skies:everbright
+[23Feb2025 23:21:16.895] [Server thread/INFO] [sereneseasons/]: Season time skipped by 2530 in simple_mobs:distant_land
+[23Feb2025 23:21:16.895] [Server thread/INFO] [sereneseasons/]: Season time skipped by 2530 in blue_skies:everdawn
+[23Feb2025 23:21:16.895] [Server thread/INFO] [sereneseasons/]: Season time skipped by 2530 in simple_mobs:fervent_dream
+[23Feb2025 23:21:16.895] [Server thread/INFO] [sereneseasons/]: Season time skipped by 2530 in minecraft:the_end
+[23Feb2025 23:21:16.895] [Server thread/INFO] [sereneseasons/]: Season time skipped by 2530 in minecraft:the_nether
+[23Feb2025 23:21:16.925] [Server thread/INFO] [sereneseasons/]: Season time skipped by 2530 in minecraft:overworld
+[23Feb2025 23:21:55.992] [Server thread/INFO] [net.minecraft.world.entity.npc.Villager/]: Villager QuestVillager['Aide'/4604, l='ServerLevel[world]', x=90.39, y=64.00, z=193.62] died, message: 'Aide was shot by Guard'
+[23Feb2025 23:21:55.993] [Server thread/INFO] [net.minecraft.world.entity.LivingEntity/]: Named entity QuestVillager['Aide'/4604, l='ServerLevel[world]', x=90.39, y=64.00, z=193.62] died: Aide was shot by Guard
+[23Feb2025 23:22:20.227] [Server thread/ERROR] [Apotheosis : Adventure/]: Failed to execute LootRule minecraft:leather_helmet/common/STAT/0.25!
+[23Feb2025 23:22:23.278] [Server thread/ERROR] [Apotheosis : Adventure/]: Failed to execute LootRule minecraft:leather_helmet/common/STAT/0.25!
+[23Feb2025 23:23:20.370] [RCON Listener #1/INFO] [net.minecraft.server.rcon.thread.GenericThread/]: Thread RCON Client /0:0:0:0:0:0:0:1 started
+[23Feb2025 23:23:20.391] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: [Rcon: Made sglre6355 a server operator]
+[23Feb2025 23:23:20.391] [RCON Client /0:0:0:0:0:0:0:1 #2/INFO] [net.minecraft.server.rcon.thread.RconClient/]: Thread RCON Client /0:0:0:0:0:0:0:1 shutting down
+[23Feb2025 23:23:26.810] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: [sglre6355: Set own game mode to Creative Mode]
+[23Feb2025 23:23:57.642] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: sglre6355 has completed the challenge [Cover Me in Debris]
+[23Feb2025 23:26:30.227] [Server thread/ERROR] [Apotheosis : Adventure/]: Failed to execute LootRule minecraft:leather_helmet/common/STAT/0.25!
+[23Feb2025 23:26:37.522] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: [sglre6355: Set own game mode to Survival Mode]
+[23Feb2025 23:26:38.853] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: sglre6355 was slain by Knight Rober, the Primordial One
+[23Feb2025 23:26:40.272] [Server thread/INFO] [Reputation/]: Syncing 3 factions to the client
+[23Feb2025 23:26:51.531] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: [sglre6355: Set own game mode to Creative Mode]
+[23Feb2025 23:27:11.526] [Server thread/ERROR] [Apotheosis : Adventure/]: Failed to execute LootRule minecraft:golden_helmet/common/STAT/0.25!
+[23Feb2025 23:27:34.144] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: [sglre6355: Set own game mode to Survival Mode]
+[23Feb2025 23:27:47.692] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: [sglre6355: Set own game mode to Creative Mode]
+[23Feb2025 23:29:22.973] [Server thread/INFO] [net.minecraft.world.entity.LivingEntity/]: Named entity Knight4Entity['Knight Rober, the Primordial One'/6685, l='ServerLevel[world]', x=160.41, y=64.00, z=88.41] died: Knight Rober, the Primordial One fell out of the world
+[23Feb2025 23:29:22.980] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: [sglre6355: Killed Knight Rober, the Primordial One]
+[23Feb2025 23:29:29.189] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: sglre6355 has made the advancement [Welcome To The Jungle]
+[23Feb2025 23:29:29.189] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: sglre6355 has made the advancement [The Beginning of An Adventure]
+[23Feb2025 23:29:31.641] [Server thread/WARN] [ModernFix/]: The namespace betterstrongholds contains an outdated structure file, which can cause worldgen lag. Please view debug.log for the full filename, determine which mod provides the structure, and report to the mod/datapack author, including the debug log.
+[23Feb2025 23:29:35.674] [Server thread/ERROR] [Apotheosis : Adventure/]: Failed to execute LootRule minecraft:golden_helmet/common/STAT/0.25!
+[23Feb2025 23:29:37.393] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: [sglre6355: Removed 12 items from player sglre6355]
+[23Feb2025 23:29:48.789] [Server thread/INFO] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: sglre6355 lost connection: Disconnected
+[23Feb2025 23:29:48.789] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: sglre6355 left the game
+[23Feb2025 23:30:14.950] [RCON Listener #1/INFO] [net.minecraft.server.rcon.thread.GenericThread/]: Thread RCON Client /0:0:0:0:0:0:0:1 started
+[23Feb2025 23:30:14.951] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: [Rcon: Stopping the server]
+[23Feb2025 23:30:14.952] [RCON Client /0:0:0:0:0:0:0:1 #3/INFO] [net.minecraft.server.rcon.thread.RconClient/]: Thread RCON Client /0:0:0:0:0:0:0:1 shutting down
+[23Feb2025 23:30:14.988] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Stopping server
+[23Feb2025 23:30:14.989] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Saving players
+[23Feb2025 23:30:14.989] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Saving worlds
+[23Feb2025 23:30:15.206] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Saving chunks for level 'ServerLevel[world]'/minecraft:overworld
+[23Feb2025 23:30:17.704] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Saving chunks for level 'ServerLevel[world]'/blue_skies:everbright
+[23Feb2025 23:30:17.706] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Saving chunks for level 'ServerLevel[world]'/simple_mobs:distant_land
+[23Feb2025 23:30:17.707] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Saving chunks for level 'ServerLevel[world]'/blue_skies:everdawn
+[23Feb2025 23:30:17.707] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Saving chunks for level 'ServerLevel[world]'/simple_mobs:fervent_dream
+[23Feb2025 23:30:17.708] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Saving chunks for level 'ServerLevel[world]'/minecraft:the_end
+[23Feb2025 23:30:17.709] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Saving chunks for level 'ServerLevel[world]'/minecraft:the_nether
+[23Feb2025 23:30:17.762] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: ThreadedAnvilChunkStorage (world): All chunks are saved
+[23Feb2025 23:30:17.762] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: ThreadedAnvilChunkStorage (everbright): All chunks are saved
+[23Feb2025 23:30:17.762] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: ThreadedAnvilChunkStorage (distant_land): All chunks are saved
+[23Feb2025 23:30:17.762] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: ThreadedAnvilChunkStorage (everdawn): All chunks are saved
+[23Feb2025 23:30:17.762] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: ThreadedAnvilChunkStorage (fervent_dream): All chunks are saved
+[23Feb2025 23:30:17.762] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: ThreadedAnvilChunkStorage (DIM1): All chunks are saved
+[23Feb2025 23:30:17.762] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: ThreadedAnvilChunkStorage (DIM-1): All chunks are saved
+[23Feb2025 23:30:17.762] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: ThreadedAnvilChunkStorage: All dimensions are saved
+[23Feb2025 23:30:17.805] [Server thread/INFO] [net.minecraft.server.rcon.thread.GenericThread/]: Thread RCON Listener stopped
